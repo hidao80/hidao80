@@ -2,6 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true&theme=buefy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=buefy)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 # My Qiita works
 
