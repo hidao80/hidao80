@@ -11,9 +11,9 @@ PC💻, gadget📱, Various OS💿, coffee (especially cold)☕
 
 #### Profile
 
-General manager of Okayama Iced Coffee Party. He is an IT scullery maid who enjoys building development environments.
+General manager of Okayama Iced Coffee Party. I am an IT scullery maid who enjoys building development environments.
 
-He is a multi-standardist who believes that there are as many normal, common, and natural things as there are people.
+I am a multi-standardist who believes that there are as many normal, common, and natural things as there are people.
 
 Creator of [LINE-like backup viewer,](https://hidao80.github.io/LINEBackupViewer/) small-scale SNS grooup, and HermēsToDo, an automated ToDo recommender.
 
