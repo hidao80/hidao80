@@ -15,7 +15,7 @@ General manager of Okayama Iced Coffee Party. He is an IT scullery maid who enjo
 
 He is a multi-standardist who believes that there are as many normal, common, and natural things as there are people.
 
-Creator of LINE-like backup viewer, small-scale SNS grooup, and HermēsToDo, an automated ToDo recommender.
+Creator of [LINE-like backup viewer,](https://hidao80.github.io/LINEBackupViewer/) small-scale SNS grooup, and HermēsToDo, an automated ToDo recommender.
 
 #### Activity
 
