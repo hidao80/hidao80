@@ -27,4 +27,4 @@ Creator of [LINE-like backup viewer,](https://hidao80.github.io/LINEBackupViewer
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
-
+![https://img.shields.io/github/stars/hidao80?style=social]()
