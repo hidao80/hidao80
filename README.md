@@ -1,5 +1,5 @@
 ### Hi everybody, I am hidao.
-<a rel="me" href="https://github.com/hidao80"></a>
+<a rel="me" href="https://github.com/hidao80">.</a>
 
 #### Fun fact
 PC💻, gadget📱, Various OS💿, coffee (especially cold)☕
