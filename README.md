@@ -14,7 +14,7 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially cold)☕
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 
 <a rel="me" href="https://misskey.dev/@hidao"></a>
-<a rel="me" href="https://fedibird.com/@hidao"></a>
+<a rel="me" href="https://fedibird.com/users/hidao"></a>
 
 
 #### Profile
