@@ -10,6 +10,9 @@ PC💻, gadget📱, Various OS💿, coffee (especially cold)☕
 [![](img/twitter.svg) @hidao80](https://twitter.com/hidao80)  
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 
+<a rel="me" href="https://misskey.dev/@hidao"></a>
+<a rel="me" href="https://fedibird.com/@hidao"></a>
+
 #### Profile
 
 General manager of Okayama Iced Coffee Party. I am an IT scullery maid who enjoys building development environments.
