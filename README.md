@@ -5,8 +5,8 @@ PC💻, gadget📱, Various OS💿, coffee (especially cold)☕
 
 #### On the web
 [![](img/github.svg) @hidao80](https://github.com/hidao80/)  
-[![](img/misskey.svg) @hidao@misskey.dev](https://misskey.dev/@hidao)  
-[![](img/mastodon.svg) @hidao@fedibird.com](https://fedibird.com/@hidao)  
+<a rel="me" href="https://misskey.dev/@hidao">![](img/misskey.svg) @hidao@misskey.dev</a>  
+<a rel="me" href="https://fedibird.com/@hidao">![](img/mastodon.svg) @hidao@fedibird.com</a>  
 [![](img/twitter.svg) @hidao80](https://twitter.com/hidao80)  
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 
