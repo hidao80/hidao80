@@ -20,9 +20,8 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially cold)☕
 
 #### Profile
 
-I am an IT engineer who enjoys building development environments and developing tools.
-I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.
-
+I am an IT engineer who enjoys building development environments and developing tools.  
+I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.  
 I am a multi-standardist who believes that each person has different common sense.
 
 
