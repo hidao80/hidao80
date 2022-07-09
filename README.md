@@ -2,7 +2,7 @@
 
 #### Fun fact
 
-PC💻, Gadget📱, Various OS💿, Coffee (especially cold)☕
+PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕
 
 
 #### On the web
