@@ -13,6 +13,7 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially cold)☕
 [![](img/twitter.svg) @hidao80](https://twitter.com/hidao80)  
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 
+<!-- Don't use rel="me" to avoid bots! -->
 <a rel="me" href="https://misskey.dev/@hidao"></a>
 <a rel="me" href="https://fedibird.com/users/hidao"></a>
 
