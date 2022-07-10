@@ -10,6 +10,7 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕
 [![](img/github.svg) @hidao80](https://github.com/hidao80/)  
 [![](img/misskey.svg) @hidao<wbr>@misskey.dev](https://misskey.dev/@hidao)  
 [![](img/mastodon.svg) @hidao<wbr>@fedibird.com](https://fedibird.com/@hidao)  
+[![](img/mastodon.svg) @hidao<wbr>@mstdn.jp](https://mstdn.jp/@hidao) for Business   
 [![](img/twitter.svg) @hidao80](https://twitter.com/hidao80)  
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 
