@@ -9,14 +9,9 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕
 
 [![](img/github.svg) @hidao80](https://github.com/hidao80/)  
 [![](img/misskey.svg) @hidao<wbr>@misskey.dev](https://misskey.dev/@hidao)  
-[![](img/mastodon.svg) @hidao<wbr>@fedibird.com](https://fedibird.com/@hidao)  
+[![](img/mastodon.svg) @hidao<wbr>@mstdn.sublimer.me](https://mstdn.sublimer.me/@hidao)  
 [![](img/mastodon.svg) @hidao<wbr>@mstdn.jp](https://mstdn.jp/@hidao) for Business   
-[![](img/twitter.svg) @hidao80](https://twitter.com/hidao80)  
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
-
-<!-- Don't use rel="me" to avoid bots! -->
-<a rel="me" href="https://misskey.dev/@hidao"></a>
-<a rel="me" href="https://fedibird.com/users/hidao"></a>
 
 
 #### Profile
