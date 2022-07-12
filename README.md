@@ -1,21 +1,25 @@
 ### Hi everybody, I am hidao.
 
 #### Fun fact
-PC💻, gadget📱, Various OS💿, coffee (especially cold)☕
+
+PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕
+
 
 #### On the web
+
 [![](img/github.svg) @hidao80](https://github.com/hidao80/)  
-[![](img/misskey.svg) @hidao](https://misskey.dev/@hidao)  
-[![](img/twitter.svg) @hidao](https://twitter.com/hidao80)  
+[![](img/misskey.svg) @hidao<wbr>@misskey.dev](https://misskey.dev/@hidao)  
+[![](img/mastodon.svg) @hidao<wbr>@mstdn.sublimer.me](https://mstdn.sublimer.me/@hidao)  
+[![](img/mastodon.svg) @hidao<wbr>@mstdn.jp](https://mstdn.jp/@hidao) for Business   
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
+
 
 #### Profile
 
-General manager of Okayama Iced Coffee Party. He is an IT scullery maid who enjoys building development environments.
+I am an IT engineer who enjoys building development environments and developing tools.  
+I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.  
+I am a multi-standardist who believes that each person has different common sense.
 
-He is a multi-standardist who believes that there are as many normal, common, and natural things as there are people.
-
-Creator of LINE-like backup viewer, small-scale SNS grooup, and HermēsToDo, an automated ToDo recommender.
 
 #### Activity
 
@@ -26,4 +30,3 @@ Creator of LINE-like backup viewer, small-scale SNS grooup, and HermēsToDo, an 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
-
