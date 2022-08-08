@@ -9,10 +9,10 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development
 ### Programming language
 Javascirpt(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, React, React Native 
 
-### Work
+### Bussiness
 Gamification👾, Marketing automation📊, Robotic Process Automation🤖
 
-### Artist
+### Entertainer
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 
 ## On the web
