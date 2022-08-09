@@ -9,7 +9,7 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development
 ### Programming language
 Javascirpt(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, React, React Native 
 
-### Bussiness
+### conomic activity
 Gamification👾, Marketing automation📊, Robotic Process Automation🤖
 
 ### Entertainer
