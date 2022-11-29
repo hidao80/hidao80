@@ -25,6 +25,7 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 [![](img/link.svg) Qiita](https://qiita.com/hidao)  
 [![](img/link.svg) Speaker Deck](https://speakerdeck.com/hidao80)  
 
+[![wakatime](https://wakatime.com/badge/user/5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a.svg)](https://wakatime.com/@5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
 
