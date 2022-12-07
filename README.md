@@ -39,4 +39,5 @@ I am a multi-standardist who believes that each person has different common sens
 ## Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=buefy)  
+<img src="https://wakatime.com/share/@hidao80/529b2e24-fe80-43e4-82ec-2f0aa47175be.png" width="640" />
