@@ -20,7 +20,6 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 [![](img/github.svg) @hidao80](https://github.com/hidao80/)  
 [![](img/misskey.svg) @hidao<wbr>@misskey.dev](https://misskey.dev/@hidao) (main)  
 <a rel="me" href="https://social.vivaldi.net/@hidao">![](img/mastodon.svg) @hidao<wbr>@social.vivaldi.net</a> (sub)  
-[![](img/mastodon.svg) @hidao<wbr>@mstdn.jp](https://mstdn.jp/@hidao) for Business   
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 [![](img/link.svg) Qiita](https://qiita.com/hidao)  
 [![](img/link.svg) Speaker Deck](https://speakerdeck.com/hidao80)  
