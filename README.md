@@ -23,7 +23,7 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 [![](img/link.svg) blog](https://hidao.hatenablog.com)  
 [![](img/link.svg) Qiita](https://qiita.com/hidao)  
 [![](img/link.svg) Speaker Deck](https://speakerdeck.com/hidao80)  
-
+<a rel="me" href="https://social.vivaldi.net/@hidao">Mastodon</a>
 
 ## Profile
 
