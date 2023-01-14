@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
 <p align="center">
     <img src="img/logo.png" style="width:256px">
 </p>
@@ -36,6 +40,6 @@ I am a multi-standardist who believes that each person has different common sens
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=buefy)  
-<img src="https://wakatime.com/share/@hidao80/529b2e24-fe80-43e4-82ec-2f0aa47175be.png" width="640" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=transparent)  
+![wakatime use Languages](https://wakatime.com/share/@hidao80/fafecef2-9bd8-4a6a-a604-9276201fddf0.png)
