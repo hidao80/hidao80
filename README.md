@@ -40,6 +40,7 @@ I am a multi-standardist who believes that each person has different common sens
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact)  
-![wakatime use Languages](https://wakatime.com/share/@hidao80/fafecef2-9bd8-4a6a-a604-9276201fddf0.png)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact)   -->
+<!-- ![wakatime use Languages](https://wakatime.com/share/@hidao80/fafecef2-9bd8-4a6a-a604-9276201fddf0.png) -->
+![](./profile-3d-contrib/profile-south-season-animate.svg)
