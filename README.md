@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 
 <p align="center">
-    <img src="img/logo.png" style="width:256px">
+    <img src="img/logo.png" style="width:128px">
 </p>
 
 ## Fun fact
@@ -31,7 +31,6 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 I am an IT engineer who enjoys building development environments and developing tools.  
 I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.  
 I am a multi-standardist who believes that each person has different common sense.
-
 
 ## Activity
 
