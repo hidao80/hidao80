@@ -28,8 +28,8 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 
 ## Profile
 
-A humble IT hobbyist who enjoys building development environments and creating tools.
-I am the leader of the Okayama Iced Coffee Party. Iced coffee is supreme.
+A humble IT hobbyist who enjoys building development environments and creating tools.  
+I am the leader of the Okayama Iced Coffee Party. Iced coffee is supreme.  
 I am a multi-standardist who believes that there are as many "norms" and "common sense" as there are people.
 
 ## Activity
