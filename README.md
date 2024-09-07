@@ -11,7 +11,7 @@
 PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development🆓
 
 ### Programming language
-Javascript(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script 
+Javascript(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Progressive web apps(PWA) 
 
 ### Economic activity
 Gamification👾, Marketing automation📊, Robotic Process Automation🤖
@@ -28,9 +28,9 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
 
 ## Profile
 
-I am an IT engineer who enjoys building development environments and developing tools.  
-I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.  
-I am a multi-standardist who believes that each person has different common sense.
+A humble IT hobbyist who enjoys building development environments and creating tools.
+I am the leader of the Okayama Iced Coffee Party. Iced coffee is supreme.
+I am a multi-standardist who believes that there are as many "norms" and "common sense" as there are people.
 
 ## Activity
 
