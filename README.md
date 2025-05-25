@@ -42,3 +42,6 @@ I am a multi-standardist who believes that there are as many "norms" and "common
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact)   -->
 <!-- ![wakatime use Languages](https://wakatime.com/share/@hidao80/fafecef2-9bd8-4a6a-a604-9276201fddf0.png) -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
