@@ -14,23 +14,31 @@ PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development
 Javascript(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Progressive web apps(PWA) 
 
 ### Economic activity
-Gamification👾, Marketing automation📊, Robotic Process Automation🤖
+Gamification👾, Behavioral Economics🚶, Marketing automation📊
+
+### Generative AI
+Claude, ChatGPT, Gemini, Grok, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, MS Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
 
 ### Entertainer
-Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno
+Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
 
 ## On the web
 
-[![](img/github.svg) @hidao80](https://github.com/hidao80/)  
-[![](img/mastodon.svg) @hidao<wbr>@social.vivaldi.net](https://social.vivaldi.net/@hidao)  
-[![](img/link.svg) Qiita](https://qiita.com/hidao)  
-[![](img/link.svg) Speaker Deck](https://speakerdeck.com/hidao80)  
+[![](https://img.shields.io/badge/-@hidao80-181717.svg?logo=github&style=plastic)](https://github.com/hidao80/)  
+[![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
+[![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=plastic)](https://social.vivaldi.net/@hidao)  
+[![](https://img.shields.io/badge/-@hidao80-0A0A0A?style=flat&logo=devdotto&logoColor=white)]() 
+[![](https://img.shields.io/badge/-@hidao80-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/hidao) 
+[![](https://img.shields.io/badge/-@hidao-55C500.svg?logo=qiita&style=plastic)](https://qiita.com/hidao) 
+[![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=plastic)](https://speakerdeck.com/hidao80)  
 
 ## Profile
 
-A humble IT hobbyist who enjoys building development environments and creating tools.  
-I am the leader of the Okayama Iced Coffee Party. Iced coffee is supreme.  
-I am a multi-standardist who believes that there are as many "norms" and "common sense" as there are people.
+Hey there! I'm an IT engineer who's super into setting up dev environments and building web tools in my spare time. 
+
+I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️
+
+I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
 
 ## Activity
 
