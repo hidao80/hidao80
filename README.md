@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 
 <p align="center">
-    <img src="img/logo.png" style="width:128px">
+    <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" style="width:600px">
 </p>
 
 ## Fun fact
