@@ -49,14 +49,14 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 - **AI Prompt Engineering**: Track record of developing 30+ GPTs
 
 ## 🛠️ Tech Stack
-### Currently in Use
+### ⚡️ Currently in Use
 - **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Chrome extensions, Firefox extensions, VS Code extensions, UserScript, PWA
 - **Backend**: PHP, Laravel, MySQL, SASS, Twig, Python
 - **Infrastructure**: AWS, Azure, Linux, Windows Server, Apache, MariaDB, ssh, sendmail, Git, SubVersion, Docker, Vagrant, Ansible
 - **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Markefun, press releases, listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, structured data (schema)
 - **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-legacy, DALL-E3
 
-### Learning & Experimenting
+### 📚️ Currently Learning & Experimenting
 - **Modern Frontend**: TypeScript, React, Vue.js, IndexedDB, SSE, WebSocket
 - **Modern Backend**: FastAPI
 - **AI Development**: Claude Code, v0, CodeRabbit, Replit
