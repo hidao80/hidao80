@@ -40,6 +40,25 @@ I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be
 
 I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
 
+## 🚀 Value Creation Initiatives
+- **Business Process Automation**: Development and operation of tools that notify internal chat of incoming fiber optic phone calls to the company, along with caller database management tools, presence system using MS Graph API and SSE, Chrome extension that embeds call history preview buttons in Chatwork, etc.
+- **Full-Stack Development**: End-to-end coverage from frontend and backend to infrastructure, VPS, security, MS Entra ID, M365, and MDM
+- **AI Prompt Engineering**: Track record of developing 30+ GPTs
+
+## 🛠️ Tech Stack
+### Currently in Use
+- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Chrome extensions, Firefox extensions, VS Code extensions, UserScript, PWA
+- **Backend**: PHP, Laravel, MySQL, SASS, Twig, Python
+- **Infrastructure**: AWS, Azure, Linux, Windows Server, Apache, MariaDB, ssh, sendmail, Git, SubVersion, Docker, Vagrant, Ansible
+- **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Markefun, press releases, listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, structured data (schema)
+- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-legacy, DALL-E3
+
+### Learning & Experimenting
+- **Modern Frontend**: TypeScript, React, Vue.js, IndexedDB, SSE, WebSocket
+- **Modern Backend**: FastAPI
+- **AI Development**: Claude Code, v0, CodeRabbit, Replit
+- **Certification**: IPA IT Strategist
+
 ## Activity
 
 [![wakatime](https://wakatime.com/badge/user/5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a.svg)](https://wakatime.com/@5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a)
