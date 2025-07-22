@@ -17,7 +17,7 @@ Javascript(Vanilla JS), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel,
 Gamification👾, Behavioral Economics🚶, Marketing automation📊
 
 ### Generative AI
-Claude, ChatGPT, Gemini, Grok, MS Cpilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
+Claude, ChatGPT, Gemini, Grok, MS Copilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
 
 ### Entertainer
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
