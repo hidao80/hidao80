@@ -34,7 +34,7 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 
 ## Profile
 
-Hey there! I'm an IT engineer who's super into setting up dev environments and building web tools in my spare time. 
+I'm an IT engineer who's super into setting up dev environments and building web tools in my spare time. 
 
 I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️
 
