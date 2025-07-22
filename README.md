@@ -11,13 +11,13 @@
 PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development🆓
 
 ### Programming language
-Javascript(Vanilla JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Progressive web apps(PWA) 
+Javascript(Vanilla JS), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Progressive web apps(PWA) 
 
 ### Economic activity
 Gamification👾, Behavioral Economics🚶, Marketing automation📊
 
 ### Generative AI
-Claude, ChatGPT, Gemini, Grok, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, MS Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
+Claude, ChatGPT, Gemini, Grok, MS Cpilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
 
 ### Entertainer
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
@@ -27,7 +27,7 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 [![](https://img.shields.io/badge/-@hidao80-181717.svg?logo=github&style=plastic)](https://github.com/hidao80/)  
 [![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
 [![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=plastic)](https://social.vivaldi.net/@hidao)  
-[![](https://img.shields.io/badge/-@hidao80-0A0A0A?style=flat&logo=devdotto&logoColor=white)]() 
+[![](https://img.shields.io/badge/-@hidao80-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/hidao80) 
 [![](https://img.shields.io/badge/-@hidao80-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/hidao) 
 [![](https://img.shields.io/badge/-@hidao-55C500.svg?logo=qiita&style=plastic)](https://qiita.com/hidao) 
 [![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=plastic)](https://speakerdeck.com/hidao80)  
