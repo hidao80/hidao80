@@ -14,20 +14,20 @@
 PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development🆓
 
 ### Programming language
-Javascript(Vanilla JS), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Progressive web apps(PWA) 
+Javascript(Vanilla JS, Node.js), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Python, Tcl/Tk 
 
 ### Economic activity
-Gamification👾, Behavioral Economics🚶, Marketing automation📊
+Gamification👾, Behavioral Economics🚶, Marketing automation📊, Investment Trust💰, Charitable donation🪙
 
 ### Generative AI
-Claude, ChatGPT, Gemini, Grok, MS Copilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, ReCline-Legacy, Ollama, LMStudio, GPT4ALL
+Claude, ChatGPT, Gemini, Gemini nano, Grok, MS Copilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, Gemini-cli, ReCline-Legacy, Ollama, LMStudio, GPT4ALL, Cursor, Windsurf, Canva
 
 ### Entertainer
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
 
 ## On the web
 
-[![](https://img.shields.io/badge/-@hidao80-181717.svg?logo=github&style=plastic)](https://github.com/hidao80/)  
+<!-- [![](https://img.shields.io/badge/-@hidao80-181717.svg?logo=github&style=plastic)](https://github.com/hidao80/)  -->
 [![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
 [![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=plastic)](https://social.vivaldi.net/@hidao)  
 [![](https://img.shields.io/badge/-@hidao80-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/hidao80) 
@@ -47,20 +47,23 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 - **Business Process Automation**: Development and operation of tools that notify internal chat of incoming fiber optic phone calls to the company, along with caller database management tools, presence system using MS Graph API and SSE, Chrome extension that embeds call history preview buttons in Chatwork, etc.
 - **Full-Stack Development**: End-to-end coverage from frontend and backend to infrastructure, VPS, security, MS Entra ID, M365, and MDM
 - **AI Prompt Engineering**: Track record of developing 30+ GPTs
+- **MCP Server**: Local SQLite Database MCP Server, Local File Storage MCP Server, and MCP config file
 
 ## 🛠️ Tech Stack
 ### ⚡️ Currently in Use
-- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Chrome extensions, Firefox extensions, VS Code extensions, UserScript, PWA
-- **Backend**: PHP, Laravel, MySQL, SASS, Twig, Python
-- **Infrastructure**: AWS, Azure, Linux, Windows Server, Apache, MariaDB, ssh, sendmail, Git, SubVersion, Docker, Vagrant, Ansible
+- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, bookmarklet
+- **Backend**: PHP, Laravel, MySQL, Postgresql, SASS, Twig, Python
+- **Infrastructure**: AWS, Azure, Linux, BSD, Windows Server, Apache, MariaDB, ssh, sendmail, Git, SubVersion, Docker, Vagrant, Ansible, Mackerel
 - **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Markefun, press releases, listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, structured data (schema)
-- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-legacy, DALL-E3
+- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-legacy, DALL-E3, MCP Server, MCP config file
+- **Chat tool**: Chatwork, Slack, LINE, Teams, Messenger, Discord, Matrix, Google Chat, Google Meet, Zoon, FaceTime
+- **Knowledge base**: esa.io, OneNote, Google Keep, Redmime Wiki, Zenn.dev, qiita.com 
 
 ### 📚️ Currently Learning & Experimenting
-- **Modern Frontend**: TypeScript, React, Vue.js, IndexedDB, SSE, WebSocket
-- **Modern Backend**: FastAPI
-- **AI Development**: Claude Code, v0, CodeRabbit, Replit
-- **Certification**: IPA IT Strategist
+- **Modern Frontend**: TypeScript, React, Vue.js, IndexedDB, Server Send Event (SSE), WebSocket API, WebPush API, Notification API
+- **Modern Backend**: FastAPI, FastMCP
+- **AI Development**: Claude Code, Gemini-cli, v0, CodeRabbit, Replit
+- **Certification**: IPA IT Strategist, Database specialist, JCCI Bookkeeping Level 3
 
 ## Activity
 
