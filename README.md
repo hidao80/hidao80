@@ -44,10 +44,17 @@ I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be
 I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
 
 ## 🚀 Value Creation Initiatives
-- **Business Process Automation**: Development and operation of tools that notify internal chat of incoming fiber optic phone calls to the company, along with caller database management tools, presence system using MS Graph API and SSE, Chrome extension that embeds call history preview buttons in Chatwork, etc.
-- **Full-Stack Development**: End-to-end coverage from frontend and backend to infrastructure, VPS, security, MS Entra ID, M365, and MDM
-- **AI Prompt Engineering**: Track record of developing 30+ GPTs
-- **MCP Server**: Local SQLite Database MCP Server, Local File Storage MCP Server, and MCP config file
+### **Core Strengths**
+1. **Strategic thinking for maximizing multifaceted value creation from single resources**
+   * Example: Developed a zero-risk, maximum-impact content strategy by decomposing technical learning into three targeted layers—beginner tutorials, technical deep-dives, and design philosophy—each optimized for specific platform audiences.
+2. **Full-stack development with business value focus**
+   * Delivered end-to-end solutions from infrastructure to user experience
+   * Created 20+ GPTs for business process automation
+   * Developed MCP servers for enhanced AI workflow integration
+3. **AI-driven business process optimization**
+   * Automated call notification systems reducing productivity loss
+   * Implemented FAX notification filtering with Power Automate
+   * Built custom tools for competitive analysis and email automation
 
 ## 🛠️ Tech Stack
 ### ⚡️ Currently in Use
@@ -60,10 +67,12 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 - **Knowledge base**: esa.io, OneNote, Google Keep, Redmime Wiki, Zenn.dev, qiita.com 
 
 ### 📚️ Currently Learning & Experimenting
-- **Modern Frontend**: TypeScript, React, Vue.js, IndexedDB, Server Send Event (SSE), WebSocket API, WebPush API, Notification API
+- **Modern Frontend**: React + TypeScript + Vite, Vue.js, IndexedDB, Server Send Event (SSE), WebSocket API, WebPush API, Notification API
 - **Modern Backend**: FastAPI, FastMCP
-- **AI Development**: Claude Code, Gemini-cli, v0, CodeRabbit, Replit
+- **AI Development**: Codex CLI, Claude Code, Gemini-cli, v0, CodeRabbit, Replit
+- **AI Integration**: MCP Server development
 - **Certification**: IPA IT Strategist, Database specialist, JCCI Bookkeeping Level 3
+- **Content Strategy**: Multi-platform technical writing
 
 ## Activity
 
