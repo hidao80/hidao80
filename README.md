@@ -8,6 +8,8 @@
 
 - 🎯 Goal: Full-Stack Engineer Creating Business Value
 - 💡 Core Philosophy: Generating Continuous Profit for Our Company, Customers, and End Users through IT
+- 🖼️ Vision: Be an IT engineer who identifies the essence of people's problems and solves them with optimal technology, rather than just being an IT specialist
+- 📍 Positioning: A leader who proposes dedicated solutions by utilizing all available IT and AI technologies to resolve business issues
 
 ## Fun fact
 ### Hobby
