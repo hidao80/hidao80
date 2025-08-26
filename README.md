@@ -6,10 +6,8 @@
     <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" style="width:600px">
 </p>
 
+- 🧩 Motto: **Build in Flow, Value for All — to us, our clients, and end users.**
 - 🎯 Goal: Full-Stack Engineer Creating Business Value
-- 💡 Core Philosophy: Generating Continuous Profit for Our Company, Customers, and End Users through IT
-- 🖼️ Vision: Be an IT engineer who identifies the essence of people's problems and solves them with optimal technology, rather than just being an IT specialist
-- 📍 Positioning: A leader who proposes dedicated solutions by utilizing all available IT and AI technologies to resolve business issues
 
 ## Fun fact
 ### Hobby
@@ -44,6 +42,12 @@ I'm an IT engineer who's super into setting up dev environments and building web
 I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️
 
 I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
+
+---
+
+- 💡 **Core Philosophy**: Generating Continuous Profit for Our Company, Customers, and End Users through IT
+- 🖼️ **Vision**: Be an IT engineer who identifies the essence of people's problems and solves them with optimal technology, rather than just being an IT specialist
+- 📍 **Positioning**: A leader who proposes dedicated solutions by utilizing all available IT and AI technologies to resolve business issues
 
 ## 🚀 Value Creation Initiatives
 ### **Core Strengths**
