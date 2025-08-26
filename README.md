@@ -37,7 +37,7 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 
 ## Profile
 
-I'm an IT engineer who's super into setting up dev environments and building web tools in my spare time. 
+I'm an IT engineer who's passionate about setting up dev environments and building web tools in my spare time. 
 
 I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️
 
@@ -45,9 +45,9 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 
 ---
 
-- 💡 **Core Philosophy**: Generating Continuous Profit for Our Company, Customers, and End Users through IT
-- 🖼️ **Vision**: Be an IT engineer who identifies the essence of people's problems and solves them with optimal technology, rather than just being an IT specialist
-- 📍 **Positioning**: A leader who proposes dedicated solutions by utilizing all available IT and AI technologies to resolve business issues
+- 💡 **Core Philosophy**: Creating sustainable value through IT.
+- 🖼️ **Vision**: Solving core problems with optimal tech.
+- 📍 **Positioning**: Solution architect leveraging IT & AI to tackle business challenges.
 
 ## 🚀 Value Creation Initiatives
 ### **Core Strengths**
