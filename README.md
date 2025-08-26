@@ -1,39 +1,35 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-
 <p align="center">
-    <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" style="width:600px">
+    <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
 </p>
 
 - 🧩 Motto: **Build in Flow, Value for All — to us, our clients, and end users.**
 - 🎯 Goal: Full-Stack Engineer Creating Business Value
 
-## Fun fact
+## Fun Facts
 ### Hobby
 PC💻, Gadget📱, Various OS💿, Coffee (especially iced)☕, OSS development🆓
 
-### Programming language
-Javascript(Vanilla JS, Node.js), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell), awk script, Python, Tcl/Tk 
+### Programming Languages
+JavaScript(Vanilla JS, Node.js), TypeScript, HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, Shell Script(sh, bash, PowerShell), AWK, Python, Tcl/Tk 
 
-### Economic activity
+### Economic Activity
 Gamification👾, Behavioral Economics🚶, Marketing automation📊, Investment Trust💰, Charitable donation🪙
 
-### Generative AI
+### Generative AI Tools
 Claude, ChatGPT, Gemini, Gemini nano, Grok, MS Copilot, NotebookLM, DALL-E3, Stable diffusion, Sora, GitHub Copilot, Claude Code, Gemini-cli, ReCline-Legacy, Ollama, LMStudio, GPT4ALL, Cursor, Windsurf, Canva
 
-### Entertainer
+### Favorite Artists / Creators (JP & Global mix)
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
 
-## On the web
+## On the Web
 
 <!-- [![](https://img.shields.io/badge/-@hidao80-181717.svg?logo=github&style=plastic)](https://github.com/hidao80/)  -->
 [![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
-[![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=plastic)](https://social.vivaldi.net/@hidao)  
+[![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=flat)](https://social.vivaldi.net/@hidao)  
 [![](https://img.shields.io/badge/-@hidao80-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/hidao80) 
 [![](https://img.shields.io/badge/-@hidao80-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/hidao) 
-[![](https://img.shields.io/badge/-@hidao-55C500.svg?logo=qiita&style=plastic)](https://qiita.com/hidao) 
-[![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=plastic)](https://speakerdeck.com/hidao80)  
+[![](https://img.shields.io/badge/-@hidao-55C500.svg?logo=qiita&style=flat)](https://qiita.com/hidao) 
+[![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=flat)](https://speakerdeck.com/hidao80)  
 
 ## Profile
 
@@ -50,9 +46,24 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 - 📍 **Positioning**: Solution architect leveraging IT & AI to tackle business challenges.
 
 ## 🚀 Value Creation Initiatives
+
+**Extension Installs**  
+![](https://img.shields.io/badge/Chrome-14-informational?logo=googlechrome)
+![](https://img.shields.io/badge/Firefox-52%20installs%20★3.7-orange?logo=firefoxbrowser)
+![](https://img.shields.io/badge/VSCode-658-success?logo=visualstudiocode)  
+**Total Installs:** 724
+
+### **Cross-Platform Engineering Achievements**
+- Open Source Portfolio: [63+ public repositories](https://github.com/hidao80?tab=repositories) on GitHub
+- Cross-Platform Development:
+  • UserScripts: [32+ automation tools](https://github.com/hidao80/UserScript)
+  • Browser Extensions: [Chrome Web Store](https://chromewebstore.google.com/detail/fast-logbook/ifmhhodbomecmgjdflojanlfipldlcbe?authuser=0&hl=ja) + [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/share-with-sharegpt/) (published)
+  • VS Code Extension: [Marketplace published](https://marketplace.visualstudio.com/items?itemName=hidao80.embed-images-in-markdown)
+  • Desktop Application: [Electron-based app](https://github.com/hidao80/TsumiQiita)
+  
 ### **Core Strengths**
-1. **Strategic thinking for maximizing multifaceted value creation from single resources**
-   * Example: Developed a zero-risk, maximum-impact content strategy by decomposing technical learning into three targeted layers—beginner tutorials, technical deep-dives, and design philosophy—each optimized for specific platform audiences.
+1. **Strategic thinking for maximizing multifaceted value creation from single resources**  
+   Repurpose one build into tutorials, deep-dives, and design notes to reach distinct audiences with minimal extra cost.
 2. **Full-stack development with business value focus**
    * Delivered end-to-end solutions from infrastructure to user experience
    * Created 20+ GPTs for business process automation
@@ -64,16 +75,16 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 
 ## 🛠️ Tech Stack
 ### ⚡️ Currently in Use
-- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, bookmarklet
-- **Backend**: PHP, Laravel, MySQL, Postgresql, SASS, Twig, Python
-- **Infrastructure**: AWS, Azure, Linux, BSD, Windows Server, Apache, MariaDB, ssh, sendmail, Git, SubVersion, Docker, Vagrant, Ansible, Mackerel
-- **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Markefun, press releases, listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, structured data (schema)
-- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-legacy, DALL-E3, MCP Server, MCP config file
-- **Chat tool**: Chatwork, Slack, LINE, Teams, Messenger, Discord, Matrix, Google Chat, Google Meet, Zoon, FaceTime
-- **Knowledge base**: esa.io, OneNote, Google Keep, Redmime Wiki, Zenn.dev, qiita.com 
+- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
+- **Backend**: PHP, Laravel, MySQL, PostgreSQL, SASS, Twig, Python
+- **Infrastructure**: AWS, Azure, Linux, BSD, Windows Server, Apache, MariaDB, ssh, sendmail, Git, Subversion, Docker, Vagrant, Ansible, Mackerel
+- **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Press releases, Listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, Structured data (schema)
+- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-Legacy, DALL-E3, MCP Server, MCP config file
+- **Chat tool**: Chatwork, Slack, LINE, Teams, Messenger, Discord, Matrix, Google Chat, Google Meet, Zoom, FaceTime
+- **Knowledge base**: esa.io, OneNote, Google Keep, Redmine Wiki, Zenn.dev, qiita.com 
 
 ### 📚️ Currently Learning & Experimenting
-- **Modern Frontend**: React + TypeScript + Vite, Vue.js, IndexedDB, Server Send Event (SSE), WebSocket API, WebPush API, Notification API
+- **Modern Frontend**: React + TypeScript + Vite, Vue.js, IndexedDB, Server-Sent Events (SSE), WebSocket API, Web Push API, Notification API
 - **Modern Backend**: FastAPI, FastMCP
 - **AI Development**: Codex CLI, Claude Code, Gemini-cli, v0, CodeRabbit, Replit
 - **AI Integration**: MCP Server development
