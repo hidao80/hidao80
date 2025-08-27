@@ -54,9 +54,9 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 **Total Installs:** 724
 
 ### **Cross-Platform Engineering Achievements**
-- Open Source Portfolio: [63+ public repositories](https://github.com/hidao80?tab=repositories) on GitHub
+- Open Source Portfolio: [60+ public repositories](https://github.com/hidao80?tab=repositories) on GitHub
 - Cross-Platform Development:
-  • UserScripts: [32+ automation tools](https://github.com/hidao80/UserScript)
+  • UserScripts: [30+ automation tools](https://github.com/hidao80/UserScript)
   • Browser Extensions: [Chrome Web Store](https://chromewebstore.google.com/detail/fast-logbook/ifmhhodbomecmgjdflojanlfipldlcbe?authuser=0&hl=ja) + [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/share-with-sharegpt/) (published)
   • VS Code Extension: [Marketplace published](https://marketplace.visualstudio.com/items?itemName=hidao80.embed-images-in-markdown)
   • Desktop Application: [Electron-based app](https://github.com/hidao80/TsumiQiita)
@@ -75,17 +75,17 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 
 ## 🛠️ Tech Stack
 ### ⚡️ Currently in Use
-- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
+- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Prompt API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
 - **Backend**: PHP, Laravel, MySQL, PostgreSQL, SASS, Twig, Python
 - **Infrastructure**: AWS, Azure, Linux, BSD, Windows Server, Apache, MariaDB, ssh, sendmail, Git, Subversion, Docker, Vagrant, Ansible, Mackerel
 - **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Press releases, Listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, Structured data (schema)
-- **AI**: GitHub Copilot Chat, Claude, ChatGPT, MS Copilot, Gemini, NotebookLM, ReCline-Legacy, DALL-E3, MCP Server, MCP config file
+- **AI Tools**: GitHub Copilot Chat, ReCline-Legacy, Claude, ChatGPT, MS Copilot, M365 Copilot, Gemini, Grok, Rakuten AI, NotebookLM, DALL-E3, MCP Server, MCP config file, Local LLM AI (Ollama, LM Studio, GPT4ALL)
 - **Chat tool**: Chatwork, Slack, LINE, Teams, Messenger, Discord, Matrix, Google Chat, Google Meet, Zoom, FaceTime
 - **Knowledge base**: esa.io, OneNote, Google Keep, Redmine Wiki, Zenn.dev, qiita.com 
 
 ### 📚️ Currently Learning & Experimenting
 - **Modern Frontend**: React + TypeScript + Vite, Vue.js, IndexedDB, Server-Sent Events (SSE), WebSocket API, Web Push API, Notification API
-- **Modern Backend**: FastAPI, FastMCP
+- **Modern Backend**: FastAPI, FastMCP, GraphQL
 - **AI Development**: Codex CLI, Claude Code, Gemini-cli, v0, CodeRabbit, Replit
 - **AI Integration**: MCP Server development
 - **Certification**: IPA IT Strategist, Database specialist, JCCI Bookkeeping Level 3
