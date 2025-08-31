@@ -77,7 +77,7 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 
 ### 1. [ShigotoForm](https://github.com/hidao80/ShigotoForm)  
 A PWA-based resume generator with offline support, IndexedDB storage, and PDF export for a seamless job-hunting experience.  
-*Tech stack: PWA, React, IndexedDB, JavaScript, HTML/CSS*  
+*Tech stack: PWA, Vite, IndexedDB, JavaScript, HTML/CSS*  
 <img width="350" alt="Input Screen" title="Input Screen" src="https://github.com/user-attachments/assets/01a0c251-604e-4536-8c74-9b74bed8fff6">
 
 ### 2. [memory_mcp](https://github.com/hidao80/memory_mcp)  
