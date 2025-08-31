@@ -73,6 +73,22 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
    * Implemented FAX notification filtering with Power Automate
    * Built custom tools for competitive analysis and email automation
 
+## 🏆 Featured Projects
+
+### 1. [ShigotoForm](https://github.com/hidao80/ShigotoForm)  
+A PWA-based resume generator with offline support, IndexedDB storage, and PDF export for a seamless job-hunting experience.  
+*Tech stack: PWA, React, IndexedDB, JavaScript, HTML/CSS*  
+<img width="350" alt="Input Screen" title="Input Screen" src="https://github.com/user-attachments/assets/01a0c251-604e-4536-8c74-9b74bed8fff6">
+
+### 2. [memory_mcp](https://github.com/hidao80/memory_mcp)  
+An MCP server that bridges LLMs (Claude, Cursor editor, GitHub Copilot Chat, etc.) with dev environments, enabling seamless AI workflow integration and productivity boosts.  
+*Tech stack: Node.js, MCP protocol, TypeScript, AI/LLM integration*
+
+### 3. [embed-images-in-markdown](https://github.com/hidao80/embed-images-in-markdown)  
+A VS Code extension that lets you embed images directly into Markdown files, making documentation simpler and smarter.  
+*Tech stack: TypeScript, VS Code API, Markdown*  
+<img width="350" alt="preview" title="preview" src="https://user-images.githubusercontent.com/8155294/219820928-a38088bd-a8f4-465e-9117-30a17216f3b3.gif">
+
 ## 🛠️ Tech Stack
 ### ⚡️ Currently in Use
 - **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Prompt API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
