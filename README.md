@@ -48,10 +48,11 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 ## 🚀 Value Creation Initiatives
 
 **Extension Installs**  
-![](https://img.shields.io/badge/Chrome-14-informational?logo=googlechrome)
-![](https://img.shields.io/badge/Firefox-52%20installs%20★3.7-orange?logo=firefoxbrowser)
-![](https://img.shields.io/badge/VSCode-658-success?logo=visualstudiocode)  
-**Total Installs:** 724
+![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs)
+![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users) 
+![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome)  
+*(Chrome extension installs not auto-updated yet — displayed only on Chrome Web Store page)*  
+**Total Installs:** 720+
 
 ### **Cross-Platform Engineering Achievements**
 - Open Source Portfolio: [60+ public repositories](https://github.com/hidao80?tab=repositories) on GitHub
