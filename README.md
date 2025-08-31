@@ -82,7 +82,7 @@ A PWA-based resume generator with offline support, IndexedDB storage, and PDF ex
 
 ### 2. [memory_mcp](https://github.com/hidao80/memory_mcp)  
 An MCP server that bridges LLMs (Claude, Cursor editor, GitHub Copilot Chat, etc.) with dev environments, enabling seamless AI workflow integration and productivity boosts.  
-*Tech stack: Node.js, MCP protocol, TypeScript, AI/LLM integration*
+*Tech stack: Node.js, Python, MCP, AI/LLM integration*
 
 ### 3. [embed-images-in-markdown](https://github.com/hidao80/embed-images-in-markdown)  
 A VS Code extension that lets you embed images directly into Markdown files, making documentation simpler and smarter.  
