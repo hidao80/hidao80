@@ -114,10 +114,10 @@ A VS Code extension that lets you embed images directly into Markdown files, mak
 [![wakatime](https://wakatime.com/badge/user/5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a.svg)](https://wakatime.com/@5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
+[![Zenn Articles](https://zenn-badge.nikaera.com/s/hidao/articles?style=flat)](https://zenn.dev/hidao/articles)
+[![Zenn Scraps](https://zenn-badge.nikaera.com/s/hidao/scraps?style=flat)](https://zenn.dev/hidao/scraps)
+[![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true) -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact)   -->
-<!-- ![wakatime use Languages](https://wakatime.com/share/@hidao80/fafecef2-9bd8-4a6a-a604-9276201fddf0.png) -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
