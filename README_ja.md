@@ -3,7 +3,7 @@
    <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
 </p>
 
-- 🧩 モットー: **夢中開発、三方利益。私たちとクライアント、エンドユーザーのすべてに利益を。**
+- 🧩 モットー: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
 - 🎯 目標: ビジネス価値を創造するフルスタックエンジニア
 
 ## 好きなもの
@@ -37,7 +37,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 
 また、私は岡山アイスコーヒー党総帥でもあります。アイスコーヒーこそ至高。☕️
 
-マルチスタンダード主義者です。つまり、「普通」「常識」「当たり前」は世界中の人の数だけ存在すると考えています。誰もが何がスタンダードかについて独自の見解を持っており、それは完全に問題ないと思っています！
+マルチスタンダード主義者です。つまり、「普通」「常識」「当たり前」は世界中の人の数だけ存在すると考えています。
 
 ---
 
@@ -123,4 +123,5 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
+
 
