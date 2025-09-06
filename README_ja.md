@@ -48,9 +48,9 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 ## 🚀 価値創造の取り組み
 
 **機能拡張のインストール数**  
-![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs)
-![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users) 
-![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome)  
+![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
+![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users&style=flat) 
+![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)  
 *（Chromeエクステンションのインストール数はまだ自動更新されていません — Chrome Web Storeページでのみ表示）*  
 **総インストール数:** 720+
 
@@ -115,6 +115,9 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 [![wakatime](https://wakatime.com/badge/user/5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a.svg)](https://wakatime.com/@5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hidao/posts.svg)](http://qiita.com/hidao)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)
+[![Zenn Articles](https://zenn-badge.nikaera.com/s/hidao/articles?style=flat)](https://zenn.dev/hidao/articles)
+[![Zenn Scraps](https://zenn-badge.nikaera.com/s/hidao/scraps?style=flat)](https://zenn.dev/hidao/scraps)
+[![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
