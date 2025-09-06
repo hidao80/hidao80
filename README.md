@@ -1,3 +1,4 @@
+English | [日本語](README_ja.md)
 <p align="center">
     <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
 </p>
