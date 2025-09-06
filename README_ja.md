@@ -1,7 +1,8 @@
-[English](README.md) | 日本語
 <p align="center">
    <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
 </p>
+
+[English](README.md) | 日本語
 
 - 🧩 モットー: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
 - 🎯 目標: ビジネス価値を創造するフルスタックエンジニア
@@ -31,7 +32,10 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 [![](https://img.shields.io/badge/-@hidao-55C500.svg?logo=qiita&style=flat)](https://qiita.com/hidao) 
 [![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=flat)](https://speakerdeck.com/hidao80)  
 
+
 ## プロフィール
+
+[English](README.md) | 日本語
 
 開発環境の構築とWebツールの開発が趣味のITエンジニアです。休暇にはこれらの活動に没頭しています。
 
@@ -76,6 +80,8 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
   * Webページの競合分析とメールマーケティングのためのカスタムツール構築
 
 ## 🏆 注目プロジェクト
+
+[English](README.md) | 日本語
 
 ### 1. [ShigotoForm](https://github.com/hidao80/ShigotoForm)  
 オフライン動作、IndexedDBストレージ、PDF出力機能を備えたPWAベースの履歴書ジェネレーター。シームレス&サーバレスな履歴書作成機能を提供。  
@@ -123,6 +129,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
+
 
 
 
