@@ -104,7 +104,7 @@ A VS Code extension that lets you embed images directly into Markdown files, mak
 ### 📚️ Currently Learning & Experimenting
 - **Modern Frontend**: React + TypeScript + Vite, Vue.js, IndexedDB, Server-Sent Events (SSE), WebSocket API, Web Push API, Notification API
 - **Modern Backend**: FastAPI, FastMCP, GraphQL
-- **AI Development**: Codex CLI, Claude Code, Gemini-cli, v0, CodeRabbit, Replit
+- **AI Development**: Codex CLI, Claude Code, Gemini-cli, v0, CodeRabbit, Replit, Serena
 - **AI Integration**: MCP Server development
 - **Certification**: IPA IT Strategist, Database specialist, JCCI Bookkeeping Level 3
 - **Content Strategy**: Multi-platform technical writing
