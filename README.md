@@ -1,7 +1,8 @@
-English | [日本語](README_ja.md)
 <p align="center">
     <img src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
 </p>
+
+English | [日本語](README_ja.md)
 
 - 🧩 Motto: **Build in Flow, Value for All — to us, our clients, and end users.**
 - 🎯 Goal: Full-Stack Engineer Creating Business Value
@@ -33,6 +34,8 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 [![](https://img.shields.io/badge/-@hidao80-339966.svg?logo=speakerdeck&style=flat)](https://speakerdeck.com/hidao80)  
 
 ## Profile
+
+English | [日本語](README_ja.md)
 
 I'm an IT engineer who's passionate about setting up dev environments and building web tools in my spare time. 
 
@@ -76,6 +79,8 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
    * Built custom tools for competitive analysis and email automation
 
 ## 🏆 Featured Projects
+
+English | [日本語](README_ja.md)
 
 ### 1. [ShigotoForm](https://github.com/hidao80/ShigotoForm)  
 A PWA-based resume generator with offline support, IndexedDB storage, and PDF export for a seamless job-hunting experience.  
