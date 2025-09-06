@@ -8,7 +8,7 @@
 
 ## 好きなもの
 ### 趣味
-PC💻、ガジェット📱、各種OS💿、コーヒー（とくにアイス）☕、OSS開発🆓
+PC💻、ガジェット📱、各種OS💿、コーヒー（とくにアイスコーヒー）☕、OSS開発🆓
 
 ### プログラミング言語
 JavaScript(Vanilla JS, Node.js)、TypeScript、HTML、CSS3、jQuery、Bootstrap、PHP、Laravel、Shell Script(sh, bash, PowerShell)、AWK、Python、Tcl/Tk 
@@ -123,3 +123,4 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
+
