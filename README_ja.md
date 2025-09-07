@@ -112,7 +112,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 <summary>詳細</summary>
 
 ### ⚡️ 現在使用中
-- **フロントエンド**: JavaScript、HTML/CSS、jQuery、WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome extensions、Firefox extensions、VS Code extensions、Claude Desktop extensions、UserScript、PWA、Bookmarklet
+- **フロントエンド**: JavaScript、HTML/CSS、jQuery、WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome拡張機能、Firefox拡張機能、VS Code拡張機能、Claudeデスクトップ拡張機能、UserScript、PWA、Bookmarklet
 - **バックエンド**: PHP、Laravel、MySQL、PostgreSQL、SASS、Twig、Python
 - **インフラ**: AWS、Azure、Linux、BSD、Windows Server、Apache、MariaDB、ssh、sendmail、Git、Subversion、Docker、Vagrant、Ansible、Mackerel
 - **マーケティング**: WordPress、SEO、Google Ads、Facebook Ads、プレスリリース、リード生成サイトへの掲載、Google Analytics 4、Google Search Console、Google Tag Manager、構造化データ（schema）
@@ -136,6 +136,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
+
 
 
 
