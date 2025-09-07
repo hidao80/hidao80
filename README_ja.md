@@ -33,7 +33,6 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 [![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao) 
 
 ## プロフィール
-[English](README.md) | 日本語
 
 開発環境の構築とWebツールの開発が趣味のITエンジニアです。休暇にはこれらの活動に没頭しています。  
 また、私は岡山アイスコーヒー党総帥でもあります。アイスコーヒーこそ至高。☕️  
@@ -51,7 +50,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 - 📞 **社内電話着信のチャット通知システム構築** *(生産性向上)*
 
 ## 🚀 価値創造の取り組み
-[English](README.md) | 日本語
+
 <details>
 <summary>詳細</summary>
 
@@ -86,7 +85,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 </details>
 
 ## 🏆 注目プロジェクト
-[English](README.md) | 日本語
+
 <details>
 <summary>詳細</summary>
 
@@ -107,7 +106,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 </details>
 
 ## 🛠️ 技術スタック
-[English](README.md) | 日本語
+
 <details>
 <summary>詳細</summary>
 
@@ -132,13 +131,8 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 </details>
 
 ## 活動
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://raw.githubusercontent.com/hidao80/github-stats/master/generated/languages.svg)
-
-
-
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 
