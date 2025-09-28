@@ -17,7 +17,22 @@ PC💻、ガジェット📱、各種OS💿、コーヒー（とくにアイス�
 ### お気に入りのアーティスト・クリエイター（国内外含む）
 Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・ノーム、菅野よう子、加賀美ハヤト
 
+## プロフィール
+
+開発環境の構築とWebツールの開発が趣味のITエンジニアです。休暇にはこれらの活動に没頭しています。  
+また、私は岡山アイスコーヒー党総帥でもあります。アイスコーヒーこそ至高。☕️  
+マルチスタンダード主義者。「普通」「常識」「当たり前」は世界中の人の数だけ存在すると考えています。
+
+- 💡 **理念**: ITを通じた持続可能な価値創造
+- 🖼️ **ビジョン**: 最適な技術で核心的問題を解決
+- 📍 **ポジショニング**: ITとAIを活用してビジネス課題に取り組むソリューションアーキテクト
+
+---
+
 ## Webでの活動
+
+<details>
+<summary>詳細</summary>
 
 [![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
 [![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=flat)](https://social.vivaldi.net/@hidao)  
@@ -32,22 +47,18 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 [![Zenn Scraps](https://zenn-badge.nikaera.com/s/hidao/scraps?style=flat)](https://zenn.dev/hidao/scraps) 
 [![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao) 
 
-## プロフィール
+</details>
 
-開発環境の構築とWebツールの開発が趣味のITエンジニアです。休暇にはこれらの活動に没頭しています。  
-また、私は岡山アイスコーヒー党総帥でもあります。アイスコーヒーこそ至高。☕️  
-マルチスタンダード主義者。「普通」「常識」「当たり前」は世界中の人の数だけ存在すると考えています。
+## 🏆️ 実績
 
----
+<details>
+<summary>詳細</summary>
 
-- 💡 **理念**: ITを通じた持続可能な価値創造
-- 🖼️ **ビジョン**: 最適な技術で核心的問題を解決
-- 📍 **ポジショニング**: ITとAIを活用してビジネス課題に取り組むソリューションアーキテクト
-
-## 🏆 実績
 - 🔧 **拡張機能総インストール数**: 720+ *(VS Code, Chrome, Firefox)*
 - 🤖 **GPTs制作**: 20+ *(社内業務効率化)*
 - 📞 **社内電話着信のチャット通知システム構築** *(生産性向上)*
+
+</details>
 
 ## 🚀 価値創造の取り組み
 
@@ -84,7 +95,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 
 </details>
 
-## 🏆 注目プロジェクト
+## 🗂️ 注目プロジェクト
 
 <details>
 <summary>詳細</summary>
@@ -133,6 +144,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
