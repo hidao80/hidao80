@@ -17,7 +17,22 @@ Gamification👾, Behavioral Economics🚶, Marketing automation📊, Investment
 ### Favorite Artists / Creators (JP & Global mix)
 Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kagami
 
+## Profile
+
+I'm an IT engineer who's passionate about setting up dev environments and building web tools in my spare time.  
+I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️  
+I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
+
+---
+
+- 💡 **Core Philosophy**: Creating sustainable value through IT.
+- 🖼️ **Vision**: Solving core problems with optimal tech.
+- 📍 **Positioning**: Solution architect leveraging IT & AI to tackle business challenges.
+
 ## On the Web
+
+<details>
+<summary>Details</summary>
 
 [![](https://img.shields.io/badge/-@hidao@freakmix.com-A1CA03?style=flat&logo=misskey&logoColor=white)](https://freakmix.com/@hidao) 
 [![](https://img.shields.io/badge/-@hidao@social.vivaldi.net-3088D4.svg?logo=mastodon&style=flat)](https://social.vivaldi.net/@hidao)  
@@ -32,22 +47,18 @@ Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 [![Zenn Scraps](https://zenn-badge.nikaera.com/s/hidao/scraps?style=flat)](https://zenn.dev/hidao/scraps) 
 [![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao)
 
-## Profile
-
-I'm an IT engineer who's passionate about setting up dev environments and building web tools in my spare time.  
-I'm also the supreme leader of the Okayama Iced Coffee Club – because let's be real, iced coffee is the ultimate drink! ☕️  
-I'm a firm believer in "multi-standardism" – basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
-
----
-
-- 💡 **Core Philosophy**: Creating sustainable value through IT.
-- 🖼️ **Vision**: Solving core problems with optimal tech.
-- 📍 **Positioning**: Solution architect leveraging IT & AI to tackle business challenges.
+</details>
 
 ## 🏆 Key Achievements
+
+<details>
+<summary>Details</summary>
+
 - 🔧 **Browser & Editor Extensions**: 720+ total installs across VS Code Marketplace, Chrome Web Store, and Firefox Add-ons
 - 🤖 **Custom GPTs Development**: 20+ GPTs created for internal business process automation
 - 📞 **Enterprise Communication System**: Developed automated phone call notification system integrated with chat tools for enhanced team productivity
+
+</details>
 
 ## 🚀 Value Creation Initiatives
 
@@ -83,7 +94,7 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 
 </details>
 
-## 🏆 Featured Projects
+## 🗂️ Featured Projects
 
 <details>
 <summary>Details</summary>
