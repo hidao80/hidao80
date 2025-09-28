@@ -122,7 +122,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 ### 📚️ 現在学習・練習中
 - **モダンフロントエンド**: React + TypeScript + Vite、Vue.js、IndexedDB、Server-Sent Events（SSE）、WebSocket API、Web Push API、Notification API
 - **モダンバックエンド**: FastAPI、FastMCP、GraphQL
-- **AI開発**: Codex CLI、Claude Code、Gemini-cli、v0、CodeRabbit、Replit、Serena
+- **AI開発**: Codex CLI、Claude Code、Gemini-cli、v0、CodeRabbit、Replit、Serena、AGENT.md
 - **AI統合**: MCPサーバー開発
 - **資格**: IPA ITストラテジスト、データベーススペシャリスト、日商簿記3級
 - **コンテンツ戦略**: 複数プラットフォームへの技術記事投稿
@@ -133,6 +133,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
