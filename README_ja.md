@@ -85,7 +85,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
   ひとつの成果物からチュートリアル、詳細解説、設計メモを作成し、最小限の追加コストで異なる読者層にリーチ。
 2. **ビジネス価値にフォーカスしたフルスタック開発**
   * インフラからUXまでのエンドツーエンドソリューションを提供
-  * ビジネスプロセス自動化のため20以上のGPTsを作成
+  * ビジネスプロセス自動化のため多言語対応版を含む20以上のGPTsを作成
   * AIワークフロー統合を強化するMCPサーバーを開発
     - 例）[Claudeデスクトップアプリ向けメモリー拡張機能](https://github.com/hidao80/memory_mcp)
 3. **AI駆動ビジネスプロセス最適化**
@@ -144,6 +144,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
