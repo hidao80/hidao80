@@ -55,7 +55,7 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 <summary>詳細</summary>
 
 - 🔧 **拡張機能総インストール数**: 720+ *(VS Code, Chrome, Firefox)*
-- 🤖 **GPTs制作**: 20+ *(社内業務効率化)*
+- 🤖 **GPTs制作**: 20+ *(社内業務効率化。多言語対応版を含む)*
 - 📞 **社内電話着信のチャット通知システム構築** *(生産性向上)*
 
 </details>
@@ -144,6 +144,7 @@ LLM（Claude、Cursorエディター、GitHub Copilot Chatなど）と開発環�
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
