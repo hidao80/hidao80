@@ -55,7 +55,7 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
 <summary>Details</summary>
 
 - 🔧 **Browser & Editor Extensions**: 720+ total installs across VS Code Marketplace, Chrome Web Store, and Firefox Add-ons
-- 🤖 **Custom GPTs Development**: 20+ GPTs created for internal business process automation
+- 🤖 **Custom GPTs Development**: Developed 20+ custom GPTs for business process automation with multilingual support
 - 📞 **Enterprise Communication System**: Developed automated phone call notification system integrated with chat tools for enhanced team productivity
 
 </details>
@@ -85,7 +85,7 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
    Repurpose one build into tutorials, deep-dives, and design notes to reach distinct audiences with minimal extra cost.
 2. **Full-stack development with business value focus**
    * Delivered end-to-end solutions from infrastructure to user experience
-   * Created 15+ GPTs for business process automation
+   * Created 20+ GPTs for internal process optimization and automation, including multilingual versions
    * Developed MCP servers for enhanced AI workflow integration
 3. **AI-driven business process optimization**
    * Automated call notification systems reducing productivity loss
