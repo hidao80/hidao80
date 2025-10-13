@@ -85,7 +85,7 @@ I'm a firm believer in "multi-standardism" – basically, I think there are as m
    Repurpose one build into tutorials, deep-dives, and design notes to reach distinct audiences with minimal extra cost.
 2. **Full-stack development with business value focus**
    * Delivered end-to-end solutions from infrastructure to user experience
-   * Created 20+ GPTs for business process automation
+   * Created 15+ GPTs for business process automation
    * Developed MCP servers for enhanced AI workflow integration
 3. **AI-driven business process optimization**
    * Automated call notification systems reducing productivity loss
