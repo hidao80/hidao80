@@ -56,7 +56,7 @@ Netflix社が2018年に提唱した開発手法で、
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hidao/contributions.svg)](http://qiita.com/hidao)  
 [![Zenn Articles](https://zenn-badge.nikaera.com/s/hidao/articles?style=flat)](https://zenn.dev/hidao/articles) 
 [![Zenn Scraps](https://zenn-badge.nikaera.com/s/hidao/scraps?style=flat)](https://zenn.dev/hidao/scraps) 
-[![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao) 
+<!-- [![Zenn Likes](https://zenn-badge.nikaera.com/s/hidao/likes?style=flat)](https://zenn.dev/hidao/likes)  -->
 
 **プラットフォームの使い分け**:
 - 技術記事は[Zenn](https://zenn.dev/hidao)
@@ -187,3 +187,4 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
