@@ -4,9 +4,10 @@
 
 English | [日本語](README_ja.md)
 
-- 🧩 Motto: **Build in Flow, Value for All** — to us, our clients, and end users.
-- 🎯 Goal: **Full-Cycle Engineer** — from design → implementation → operation
-- 💼 Current: 7 years of infrastructure & 10 years of practical experience. Remote development from Okayama
+- 🧩 **Motto**: **Build in Flow, Value for All** — to us, our clients, and end users.
+- ⚖️ **Values**: **Optimal better than Best** - MVP mindset, practical solutions
+- 🎯 **Goal**: **Full-Cycle Engineer** — from design → implementation → operation
+- 💼 **Current**: 7 years of infrastructure & 10 years of practical experience. Remote development from Okayama
 
 ## Fun Facts
 ### Hobby
