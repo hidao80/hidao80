@@ -4,7 +4,8 @@
 
 [English](README.md) | 日本語
 
-- 🧩 モットー: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
+- 🧩 行動指針: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
+- ⚖️ 価値基準: **最高より最適。** 完璧主義より実用主義、MVP思考で価値を届ける
 - 🎯 目標: **設計→実装→運用まで一貫して担うフルサイクルエンジニア**
 - 💼 現在: 7年のインフラ＆10年の実務経験。岡山からリモート開発
 
@@ -187,4 +188,5 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
