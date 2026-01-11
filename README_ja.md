@@ -68,7 +68,7 @@ Netflix社が2018年に提唱した開発手法で、
 
 **オープンソース開発**:
 - 公開リポジトリ: 60+（MITライセンスなど）
-- 累計コントリビューション: 2000+
+- 累計コントリビューション: 2700+
 - 誰でも自由に使用・改変可能
 
 プロジェクトへのコントリビューション（Issue、PR、フィードバック）を歓迎しています！
@@ -146,12 +146,16 @@ Netflix社が2018年に提唱した開発手法で、
 - 📞 **社内電話着信のチャット通知システム構築** *(生産性向上)*
 - 📫️ **メールとインターネットFAX着信のチャット通知および通知フィルターPower Automateフローの開発と運用** *(生産性向上)*
 - 📃 **作業ログ登録＆集計PWAをOSSとして開発＆リリース**: [Fast logbook PWA](https://fast-logbook.netlify.app/)
-- 🔧 **拡張機能総インストール数**: 720+ *(VS Code, Chrome, Firefox)*
+- 🔧 **拡張機能総インストール数**: 800+ *(VS Code, Chrome, Firefox)*
   - **内訳**  
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
     - ![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users&style=flat) 
     - ![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)    
       *（Chromeエクステンションのインストール数はまだ自動更新されていません — Chrome Web Storeページでのみ表示）*  
+- 🏭️ **CI/CDパイプライン**: ![CI](https://github.com/hidao80/Fast-logbook-PWA/actions/workflows/eslint.yml/badge.svg?event=push)&emsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/e764aaa6-ad23-4945-8b6e-17a802224243/deploy-status)](https://app.netlify.com/sites/fast-logbook/deploys)
+  - **Lint & Security**: push/PR時にESLint + npm audit自動実行
+  - **Deploy**: mainブランチへのマージでNetlifyに自動デプロイ
+  - **最適化**: ubuntu-slimランナー採用、npmキャッシュ有効化
 
 </details>
 
@@ -190,6 +194,7 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
