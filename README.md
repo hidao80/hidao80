@@ -143,12 +143,16 @@ A timestamped work memo PWA that allows aggregation in HTML and Markdown table f
 - 📞 **Internal Phone Call Notification System**: Built chat notification system *(productivity improvement)*
 - 📫️ **Email & Internet FAX Notification System**: Developed and operated chat notification and filtering Power Automate flow *(productivity improvement)*
 - 📃 **Work Log PWA OSS Release**: Developed & released [Fast logbook PWA](https://fast-logbook.netlify.app/)
-- 🔧 **Extension Total Installs**: 720+ *(VS Code, Chrome, Firefox)*
+- 🔧 **Extension Total Installs**: 800+ *(VS Code, Chrome, Firefox)*
   - **Breakdown**  
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
     - ![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users&style=flat) 
     - ![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)    
       *(Chrome extension installs not auto-updated yet — displayed only on Chrome Web Store page)*  
+- 🏭️ **CI/CD Pipeline**: ![CI](https://github.com/hidao80/Fast-logbook-PWA/actions/workflows/eslint.yml/badge.svg?event=push)&emsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/e764aaa6-ad23-4945-8b6e-17a802224243/deploy-status)](https://app.netlify.com/sites/fast-logbook/deploys)
+  - **Lint & Security**: ESLint + npm audit on push/PR
+  - **Deploy**: Auto-deploy to Netlify on main branch
+  - **Optimization**: ubuntu-slim runner, npm cache enabled
 
 </details>
 
