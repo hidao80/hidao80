@@ -148,6 +148,8 @@ A timestamped work memo PWA that allows aggregation in HTML and Markdown table f
 - 🔧 **Extension Total Installs**: 800+ *(VS Code, Chrome, Firefox)*
   - **Breakdown**  
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
+    - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.powerautomate-desktop-syntax?logo=visualstudiocode&label=VSCode%20installs&style=flat)
+    - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.mago-vsx?logo=visualstudiocode&label=VSCode%20installs&style=flat)
     - ![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users&style=flat) 
     - ![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)    
       *(Chrome extension installs not auto-updated yet — displayed only on Chrome Web Store page)*  
