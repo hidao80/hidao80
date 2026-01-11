@@ -149,6 +149,8 @@ Netflix社が2018年に提唱した開発手法で、
 - 🔧 **拡張機能総インストール数**: 800+ *(VS Code, Chrome, Firefox)*
   - **内訳**  
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
+    - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.powerautomate-desktop-syntax?logo=visualstudiocode&label=VSCode%20installs&style=flat)
+    - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.mago-vsx?logo=visualstudiocode&label=VSCode%20installs&style=flat)
     - ![](https://img.shields.io/amo/users/share-with-sharegpt?logo=firefoxbrowser&label=Firefox%20users&style=flat) 
     - ![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)    
       *（Chromeエクステンションのインストール数はまだ自動更新されていません — Chrome Web Storeページでのみ表示）*  
@@ -194,6 +196,7 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
