@@ -6,7 +6,7 @@
 
 # hidao80 — Full‑Cycle Engineer / OSS Developer
 
-[Details](https://github.com/hidao80/hidao80/README_en.md) | [詳細](https://github.com/hidao80/hidao80/README.md)
+[Details](https://github.com/hidao80/hidao80/blob/master/README_en.md) | [詳細](https://github.com/hidao80/hidao80/blob/master/README_ja.md)
 
 **Building practical tools with curiosity and purpose.**  
 Full‑cycle engineer focused on delivering value through MVP‑driven, pragmatic development.  
