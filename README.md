@@ -1,4 +1,4 @@
-# hidao80 — Full‑Cycle Engineer / OSS Developer
+# hidao80 — Full‑Cycle Engineer & OSS Contributor
 
 ![](https://komarev.com/ghpvc/?username=hidao80&label=Profile%20views&color=0e75b6&style=flat")
 
@@ -6,8 +6,6 @@
 
 **Mission:** I codify vibe coding into intentional coding.
 
-**Building practical tools with curiosity and purpose.**  
-Full‑cycle engineer focused on delivering value through MVP‑driven, pragmatic development.  
 Based in Okayama, working fully remote.
 
 ## 🔧 What I Do
@@ -17,6 +15,7 @@ Based in Okayama, working fully remote.
 - **Full‑Cycle Development (Design → Build → Deploy → Operate)**
 
 ## 🗂️ Representative Projects
+- **Local AI Chat Frontend (React 19 + TypeScript + IndexedDB)** <https://github.com/hidao80/local-ai-chat-frontend>
 - **MCP Server Tutorial (SQLite, Zero‑config)** <https://github.com/hidao80/mcp-tutorial-1>
 - **Claude Desktop Extension (Serena‑MCP)**  <https://github.com/hidao80/local-serena-dxt>
 - **Fast Logbook PWA**  <https://github.com/hidao80/Fast-logbook-PWA>
