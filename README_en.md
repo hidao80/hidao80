@@ -1,7 +1,3 @@
-<p align="center">
-   <img alt="EMPOWERING IDEAS WITH IT" src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
-</p>
-
 ![](https://komarev.com/ghpvc/?username=hidao80&label=Profile%20views&color=0e75b6&style=flat")
 
 English | [日本語](README_ja.md)
