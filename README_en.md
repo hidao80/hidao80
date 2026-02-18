@@ -2,6 +2,7 @@
 
 English | [日本語](README_ja.md)
 
+- 🔥 **Mission:** I codify vibe coding into intentional coding.
 - 🧩 **Motto**: **Build in Flow, Value for All** — to us, our clients, and end users.
 - ⚖️ **Values**: **Optimal better than Best** - MVP mindset, practical solutions
 - 🎯 **Goal**: **Full-Cycle Engineer** — from design → implementation → operation
@@ -20,7 +21,6 @@ Hiroyuki ODA, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno, Hayato Kaga
 ## Profile
 
 I'm an IT engineer who's passionate about setting up dev environments and building web tools in my spare time.  
-I'm also the supreme leader of the Okayama Iced Coffee Club — because let's be real, iced coffee is the ultimate drink! ☕️  
 I'm a firm believer in "multi-standardism" — basically, I think there are as many different versions of "normal," "common sense," and "obvious" as there are people in this world. Everyone's got their own take on what's standard, and that's totally cool with me!
 
 - 💡 **Philosophy**: Creating sustainable value through IT
@@ -74,13 +74,12 @@ Project contributions (Issues, PRs, feedback) are always welcome!
 - **Backend**☁️: FastAPI, FastMCP, GraphQL, Mago
 - **AI Development**🛠️: Claude Code, GitHub Copilot CLI, Codex CLI, Gemini-CLI, v0, GitHub Copilot Code Review, CodeRabbit, CodeRabbit CLI, Replit, Serena MCP, AGENT.md
 - **AI Integration**🧠: MCP Server development, Local LLM AI
-- **Certifications**📝: IPA IT Strategist, System Architect, JCCI Bookkeeping Level 3
 
 <details>
 <summary><h2 style="display:inline-block">🛠️ Tech Stack</summary>
 
 ### ⚡️ Currently in Use
-- **Frontend**: JavaScript, HTML/CSS, jQuery, WebRTC API, Web Speech API, Geolocation API, Prompt API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
+- **Frontend**: JavaScript, HTML/CSS, jQuery, Vite, WebRTC API, Web Speech API, Geolocation API, Prompt API, Chrome extensions, Firefox extensions, VS Code extensions, Claude Desktop extensions, UserScript, PWA, Bookmarklet
 - **Backend**: PHP, Laravel, MySQL, PostgreSQL, SASS, Twig, Python
 - **Infrastructure**: AWS, Azure, Linux, BSD, Windows Server, Apache, MariaDB, ssh, sendmail, Git, Subversion, Docker, Vagrant, Ansible, Mackerel
 - **Marketing**: WordPress, SEO, Google Ads, Facebook Ads, Press releases, Listing on lead generation sites, Google Analytics 4, Google Search Console, Google Tag Manager, Structured data (schema)
@@ -89,7 +88,7 @@ Project contributions (Issues, PRs, feedback) are always welcome!
 - **Knowledge Base**: esa.io, OneNote, Google Keep, Redmine Wiki, Zenn.dev, qiita.com 
 
 ### 📚️ Currently Learning & Practicing
-- **Frontend**: TypeScript, React, Vite, Vue.js
+- **Frontend**: Vue.js
 - **Certification**: IPA Database Specialist
 
 </details>
