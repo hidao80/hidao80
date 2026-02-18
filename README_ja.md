@@ -1,7 +1,3 @@
-<p align="center">
-   <img alt="EMPOWERING IDEAS WITH IT" src="img/file_00000000a50461f89b37e37cbbaed97a.png" width="600">
-</p>
-
 ![](https://komarev.com/ghpvc/?username=hidao80&label=Profile%20views&color=0e75b6&style=flat")
 
 [English](README.md) | 日本語
@@ -196,6 +192,7 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
