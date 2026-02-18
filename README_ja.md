@@ -2,6 +2,7 @@
 
 [English](README.md) | 日本語
 
+- 🔥 **使命**: バイブコーディングをインテンショナルコーディングとして体系化する。
 - 🧩 **モットー**: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
 - ⚖️ **価値基準**: **最高より最適。** 完璧主義より実用主義、MVP思考で価値を届ける
 - 🎯 **目標**: **設計→実装→運用まで一貫して担うフルサイクルエンジニア**
@@ -20,7 +21,6 @@ Hiroyuki ODA、奥井雅美、マイケル・ジャクソン、シェリル・�
 ## プロフィール
 
 開発環境の構築とWebツールの開発が趣味のITエンジニアです。休暇にはこれらの活動に没頭しています。  
-また、私は岡山アイスコーヒー党総帥でもあります。アイスコーヒーこそ至高。☕️  
 マルチスタンダード主義者。「普通」「常識」「当たり前」は世界中の人の数だけ存在すると考えています。
 
 - 💡 **理念**: ITを通じた持続可能な価値創造
@@ -75,13 +75,12 @@ Netflix社が2018年に提唱した開発手法で、
 - **バックエンド**☁️: FastAPI、FastMCP、GraphQL、Mago
 - ️**AI開発**🛠️: Claude Code、GitHub Copilot CLI、Codex CLI、Gemini-CLI、v0、GitHub Copilot Code Review、CodeRabbit、CodeRabbit CLI、Replit、Serena MCP、AGENT.md
 - **AI統合**🧠: MCPサーバー開発、ローカルLLM AI
-- **資格**📝: IPA ITストラテジスト、システムアーキテクト、日商簿記3級
 
 <details>
 <summary><h2 style="display:inline-block">🛠️ 技術スタック</summary>
 
 ### ⚡️ 現在使用中
-- **フロントエンド**: JavaScript、HTML/CSS、jQuery、WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome拡張機能、Firefox拡張機能、VS Code拡張機能、Claudeデスクトップ拡張機能、UserScript、PWA、Bookmarklet
+- **フロントエンド**: JavaScript、HTML/CSS、jQuery、Vite，WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome拡張機能、Firefox拡張機能、VS Code拡張機能、Claudeデスクトップ拡張機能、UserScript、PWA、Bookmarklet
 - **バックエンド**: PHP、Laravel、MySQL、PostgreSQL、SASS、Twig、Python
 - **インフラ**: AWS、Azure、Linux、BSD、Windows Server、Apache、MariaDB、ssh、sendmail、Git、Subversion、Docker、Vagrant、Ansible、Mackerel
 - **マーケティング**: WordPress、SEO、Google Ads、Facebook Ads、プレスリリース、リード生成サイトへの掲載、Google Analytics 4、Google Search Console、Google Tag Manager、構造化データ（schema）
@@ -90,7 +89,7 @@ Netflix社が2018年に提唱した開発手法で、
 - **ナレッジベース**: esa.io、OneNote、Google Keep、Redmine Wiki、Zenn.dev、qiita.com 
 
 ### 📚️ 現在学習・練習中
-- **フロントエンド**: TypeScript、React、Vite、Vue.js
+- **フロントエンド**: Vue.js
 - **資格**: IPA データベーススペシャリスト
 
 </details>
@@ -192,6 +191,7 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 
