@@ -30,5 +30,6 @@ AI workflow integration, local LLMs, lightweight tools, open‑source culture.
 [Zenn](https://zenn.dev/hidao) / [Qiita](https://qiita.com/hidao) / [note](https://note.com/hidao80) / [dev.to](https://dev.to/hidao80) / [blog](https://hidao.hatenablog.com/) / [Mastodon](https://social.vivaldi.net/@hidao) / [SpeakerDeck](https://speakerdeck.com/hidao80)
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false" /><br>
+  <img alt="Gitty Score" src="https://gitty-code.com/api/badge/hidao80.png" />  
 </p>
