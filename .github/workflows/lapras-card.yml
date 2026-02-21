@@ -15,3 +15,4 @@ jobs:
           SHARE_ID: "AY80GVN"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LANG: "en"
+          UPDATE_TIME: false
