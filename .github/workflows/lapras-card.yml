@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LANG: "en"
           UPDATE_TIME: false
+          IS_CENTER:	true
