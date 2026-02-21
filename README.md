@@ -31,5 +31,5 @@ AI workflow integration, local LLMs, lightweight tools, open‑source culture.
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false" /><br>
-  <img alt="Gitty Score" src="https://gitty-code.com/api/badge/hidao80.png" />  
+  <img alt="Gitty Score" src="https://gitty-code.com/api/badge/hidao80.png#20260221" />  
 </p>
