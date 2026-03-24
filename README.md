@@ -4,7 +4,7 @@
 
 [Details](https://github.com/hidao80/hidao80/blob/master/README_en.md) | [詳細](https://github.com/hidao80/hidao80/blob/master/README_ja.md)
 
-**Mission:** I codify vibe coding into intentional coding.
+**Mission:** I codify vibe coding into guide coding.
 
 Based in Okayama, working fully remote.
 
