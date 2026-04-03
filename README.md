@@ -10,8 +10,9 @@ Based in Okayama, working fully remote.
 
 ## 🔧 What I Do
 - **AI × MCP (Model Context Protocol)**
-- **VS Code / Claude Code Extensions**
-- **PWA & Lightweight Web Utilities**
+- **Local LLM AI × Vector DB (e.g. ChromaDB)**
+- **VS Code / Claude Code / Chrome / Firefox Extensions**
+- **Lightweight web utility using PWA and WebRTC API**
 - **Full‑Cycle Development (Design → Build → Deploy → Operate)**
 
 ## 🗂️ Representative Projects
@@ -27,7 +28,7 @@ Based in Okayama, working fully remote.
 AI workflow integration, local LLMs, lightweight tools, open‑source culture.
 
 ## 🔗 Links
-[Zenn](https://zenn.dev/hidao) / [Qiita](https://qiita.com/hidao) / [note](https://note.com/hidao80) / [dev.to](https://dev.to/hidao80) / [blog](https://hidao.hatenablog.com/) / [Mastodon](https://social.vivaldi.net/@hidao) / [SpeakerDeck](https://speakerdeck.com/hidao80)
+[Zenn](https://zenn.dev/hidao) / [Qiita](https://qiita.com/hidao) / [note](https://note.com/hidao80) / [dev.to](https://dev.to/hidao80) / [blog](https://hidao.hatenablog.com/) / [Mastodon](https://social.vivaldi.net/@hidao) / [SpeakerDeck](https://speakerdeck.com/hidao80) / [LAPRAS](https://lapras.com/public/AY80GVN) / [Gitty](https://gitty-code.com/user/hidao80) / [Findy](https://findy-code.io/skills-share/gLYYOVw5P2tOT) / [Findy AI](https://ai-career.findy-code.io/ai-tool-portfolios/LruKsIXyQWyVgAxo4ZkMkQ)
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false" /><br>
