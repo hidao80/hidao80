@@ -35,5 +35,5 @@ AI workflow integration, local LLMs, lightweight tools, open‑source culture.
   <img width="600" alt="Gitty Score" src="https://gitty-code.com/api/badge/hidao80.png#20260221" />  
 </p>
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/AY80GVN" target="_blank" rel="noopener noreferrer"><img alt="AY80GVN's scores on LAPRAS are as follows: Engineering: 3.45 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.35 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.48&i=3.35&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
+<p align="center"><a href="https://lapras.com/public/AY80GVN" target="_blank" rel="noopener noreferrer"><img alt="AY80GVN's scores on LAPRAS are as follows: Engineering: 3.46 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.35 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.48&i=3.35&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
