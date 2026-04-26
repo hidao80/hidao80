@@ -6,6 +6,8 @@
 
 **Mission:** I codify vibe coding into guide coding.
 
+7 years of hands-on experience in in-house SaaS development (PHP / Laravel / infrastructure operations) form my foundation, and I continue pursuing personal projects in the AI × MCP space.
+
 Based in Okayama, working fully remote.
 
 ## 🔧 What I Do
