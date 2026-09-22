@@ -1,277 +1,891 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 
 <head>
-    <title>hidao's Works</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon me" href="img/logo.png">
-    <a rel="me" href="https://mstdn.sublimer.me/@hidao"></a>
-    <a rel="me" href="https://fedibird.com/@hidao"></a>
-    <a rel="me" href="https://misskey.dev/@hidao"></a>
-    <a rel="me" href="https://misskey.noellabo.jp/@hidao"></a>
-    <a rel="me" href="https://social.vivaldi.net/@hidao"></a>
-    <link rel="stylesheet" href="css/katex.min.css">
-    <link rel="stylesheet" href="css/stlye.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Lato', sans-serif;
-            max-width: 860px;
-            margin: 2rem auto;
-        }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        li {
-            margin-bottom: 1rem;
-        }
+  <title>hidao - 最高より最適をつくるITエンジニア</title>
+  <meta name="description"
+    content="岡山からフルリモートで働くITエンジニア hidao（@hidao80）。要件定義から運用まで一気通貫、データを手元に置いたままのlocal-firstなツールをOSSとして多数本以上公開しています。">
+  <meta name="author" content="hidao">
+  <link rel="canonical" href="https://hidao80.github.io/hidao80/">
 
-        pre {
-            word-wrap: normal;
-            width: 100%;
-            margin: 1rem;
-        }
+  <!-- Favicon: Twemoji "hammer and wrench" (U+1F6E0) -->
+  <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
+  <link rel="apple-touch-icon" href="img/favicon.svg">
 
-        code {
-            display: block;
-            width: 100%;
-            font-size: 100%;
-            padding: 1rem;
-            margin: 0;
-            word-break: normal;
-            white-space: pre;
-            background: #F6F8FA;
-            border: 0;
-        }
+  <!-- Open Graph -->
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="hidao">
+  <meta property="og:title" content="hidao - 最高より最適をつくるITエンジニア">
+  <meta property="og:description"
+    content="要件定義から運用まで一気通貫。データを手元に置いたままのlocal-firstなツールをOSSとして多数本以上公開しています。岡山からフルリモート。">
+  <meta property="og:url" content="https://hidao80.github.io/hidao80/">
+  <meta property="og:image" content="https://hidao80.github.io/hidao80/img/sns_hidao80.jpg">
+  <meta property="og:image:width" content="280">
+  <meta property="og:image:height" content="280">
+  <meta property="og:image:alt" content="img/sns_hidao80.jpg">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="profile:username" content="hidao80">
 
-        img {
-            max-width: 860px;
-        }
+  <!-- X (Twitter) Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="hidao - 最高より最適をつくるITエンジニア">
+  <meta name="twitter:description"
+    content="要件定義から運用まで一気通貫。データを手元に置いたままのlocal-firstなツールをOSSとして多数本以上公開しています。岡山 からフルリモート。">
+  <meta name="twitter:image" content="https://hidao80.github.io/hidao80/img/sns_hidao80.jpg">
+  <meta name="twitter:image:alt" content="img/sns_hidao80.jpg">
 
-        h2+p,
-        h2+p+p,
-        h3+p,
-        h3+p+p,
-        h3+p+p+p,
-        h4+pre+p {
-            padding-left: 2em;
-        }
+  <!-- テーマはブラウザの設定（未指定ならOS設定）に委ね、サイト側では固定しない -->
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fbfaf8">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#11161d">
 
-        h2.mume-header {
-            margin-top: 1em;
-        }
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  <style>
+    :root {
+      --accent: #b4551f;
+      --accent-soft: #b4551f1a;
+      --rule: var(--pico-muted-border-color);
+      --pico-font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", "Meiryo", system-ui, sans-serif;
+      --pico-typography-spacing-vertical: 1.4rem;
+    }
 
-        h3.mume-header {
-            margin-top: 2.5em;
-        }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --accent: #e8925c;
+        --accent-soft: #e8925c1f;
+      }
+    }
 
-        h2.mume-header+h3.mume-header {
-            margin-top: initial;
-        }
-    </style>
+    body>* {
+      max-width: 54rem;
+      margin-inline: auto;
+      padding-inline: 1rem;
+    }
 
-    <meta property="og:description" content="My profile and Works.">
-    <meta property="og:title" content="Hidao's Works">
-    <meta property="og:image" content="https://hidao80.github.io/hidao80/img/logo.png">
-    <meta property="og:image:width" content="256">
-    <meta property="og:image:height" content="256">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://hidao80.github.io/hidao80/">
+    /* ---- トップバー ---- */
+    .topbar {
+      padding-block: 1rem;
+      font-size: .875rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+
+    /* ---- ヒーロー ---- */
+    .hero {
+      padding-block: 2rem 3rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .hero .lede {
+      display: inline-block;
+      font-size: .8125rem;
+      letter-spacing: .08em;
+      color: var(--accent);
+      background: var(--accent-soft);
+      padding: .3rem .7rem;
+      border-radius: 999px;
+      margin-bottom: 1.25rem;
+    }
+
+    .hero h1 {
+      font-size: clamp(1.9rem, 5.5vw, 3rem);
+      line-height: 1.35;
+      margin-bottom: 1rem;
+      --pico-font-weight: 700;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--accent);
+    }
+
+    .hero .sub {
+      font-size: 1.0625rem;
+      color: var(--pico-muted-color);
+      margin-bottom: 0;
+    }
+
+    /* ---- 数字の帯 ---- */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+      gap: 1.5rem 1rem;
+      padding-block: 2rem;
+      border-bottom: 1px solid var(--rule);
+      margin: 0;
+    }
+
+    .stats div {
+      margin: 0;
+    }
+
+    .stats dt {
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: 700;
+      line-height: 1.1;
+      font-variant-numeric: tabular-nums;
+      color: var(--accent);
+    }
+
+    .stats dd {
+      margin: .3rem 0 0;
+      font-size: .8125rem;
+      color: var(--pico-muted-color);
+      line-height: 1.6;
+    }
+
+    /* ---- セクション共通 ---- */
+    main section {
+      padding-block: 2.75rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    main section:last-of-type {
+      border-bottom: 0;
+    }
+
+    h2 {
+      font-size: 1.35rem;
+      margin-bottom: .35rem;
+    }
+
+    .section-note {
+      color: var(--pico-muted-color);
+      font-size: .875rem;
+      margin-bottom: 1.75rem;
+    }
+
+    h3 {
+      font-size: 1.05rem;
+      margin-bottom: .75rem;
+    }
+
+    /* ---- 信条 ---- */
+    .creed {
+      border-left: 3px solid var(--accent);
+      padding: .25rem 0 .25rem 1.25rem;
+      margin: 0 0 1.75rem;
+      font-size: 1.0625rem;
+    }
+
+    .creed strong {
+      display: block;
+      font-size: 1.25rem;
+      margin-bottom: .4rem;
+    }
+
+    .creed p {
+      margin: 0;
+      color: var(--pico-muted-color);
+      font-size: .9375rem;
+    }
+
+    /* ---- 資質リスト ---- */
+    .traits {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+      gap: .75rem 1.5rem;
+    }
+
+    .traits li {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 .65rem;
+      align-items: baseline;
+      font-size: .9375rem;
+      padding-block: .4rem;
+      border-bottom: 1px dotted var(--rule);
+    }
+
+    .traits b {
+      color: var(--accent);
+      font-variant-numeric: tabular-nums;
+      font-size: .8125rem;
+      min-width: 1.4em;
+    }
+
+    .traits span {
+      color: var(--pico-muted-color);
+      font-size: .8125rem;
+    }
+
+    /* ---- 業務比率バー ---- */
+    .ratio {
+      display: flex;
+      height: 1.6rem;
+      border-radius: var(--pico-border-radius);
+      overflow: hidden;
+      margin-bottom: 1rem;
+    }
+
+    .ratio span {
+      display: block;
+    }
+
+    .ratio-legend {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem 1.25rem;
+      font-size: .8125rem;
+      color: var(--pico-muted-color);
+    }
+
+    .ratio-legend li {
+      display: flex;
+      align-items: center;
+      gap: .4rem;
+    }
+
+    .ratio-legend i {
+      width: .7rem;
+      height: .7rem;
+      border-radius: 2px;
+      flex: none;
+    }
+
+    .c1 { background: #c2622a; }
+    .c2 { background: #3f7d8c; }
+    .c3 { background: #6f6a92; }
+    .c4 { background: #4f8a5b; }
+    .c5 { background: #a14f6b; }
+
+    /* ---- 実績テーブル ---- */
+    .record {
+      font-size: .9375rem;
+    }
+
+    .record th {
+      white-space: nowrap;
+      width: 1%;
+    }
+
+    .record td:last-child {
+      color: var(--pico-muted-color);
+    }
+
+    /* 狭い画面では2列に詰め込まず、見出しの下に内容を置く */
+    @media (max-width: 34rem) {
+      .record tbody,
+      .record tr,
+      .record th,
+      .record td {
+        display: block;
+      }
+
+      .record tr {
+        padding-block: .55rem;
+        border-bottom: 1px solid var(--rule);
+      }
+
+      .record th {
+        white-space: normal;
+        width: auto;
+        border: 0;
+        padding: 0 0 .15rem;
+      }
+
+      .record td {
+        border: 0;
+        padding: 0;
+      }
+    }
+
+    /* ---- スタック ---- */
+    .stack {
+      display: grid;
+      gap: 1.25rem;
+    }
+
+    .stack > div {
+      display: grid;
+      grid-template-columns: 7.5rem 1fr;
+      gap: .5rem 1rem;
+      align-items: baseline;
+    }
+
+    .stack h3 {
+      margin: 0;
+      font-size: .8125rem;
+      letter-spacing: .04em;
+      color: var(--pico-muted-color);
+      padding-top: .3rem;
+    }
+
+    .tags {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .4rem;
+      margin: 0;
+      padding: 0;
+    }
+
+    .tags li {
+      list-style: none;
+      font-size: .8125rem;
+      line-height: 1;
+      padding: .35rem .6rem;
+      border: 1px solid var(--rule);
+      border-radius: var(--pico-border-radius);
+    }
+
+    .tags.learning li {
+      border-style: dashed;
+      color: var(--pico-muted-color);
+    }
+
+    @media (max-width: 34rem) {
+      .stack > div {
+        grid-template-columns: 1fr;
+      }
+
+      .stack h3 {
+        padding-top: 0;
+      }
+    }
+
+    /* ---- OSS ---- */
+    .oss {
+      margin-bottom: 2rem;
+    }
+
+    .oss:last-child {
+      margin-bottom: 0;
+    }
+
+    .oss > p {
+      font-size: .875rem;
+      color: var(--pico-muted-color);
+      margin-bottom: 1rem;
+    }
+
+    .repos {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: .25rem;
+    }
+
+    .repos li {
+      display: grid;
+      grid-template-columns: minmax(9rem, 13rem) 1fr;
+      gap: .25rem 1rem;
+      padding: .7rem 0;
+      border-top: 1px solid var(--rule);
+      font-size: .9375rem;
+    }
+
+    .repos li:last-child {
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .repos .name {
+      display: flex;
+      align-items: baseline;
+      gap: .4rem;
+      flex-wrap: wrap;
+    }
+
+    .repos a {
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .repos a:hover {
+      text-decoration: underline;
+    }
+
+    .repos p {
+      margin: 0;
+      color: var(--pico-muted-color);
+      font-size: .875rem;
+    }
+
+    .repos .star {
+      font-size: .75rem;
+      color: var(--accent);
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 34rem) {
+      .repos li {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ---- 連絡先 ---- */
+    .links {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+      gap: .6rem 1.5rem;
+    }
+
+    .links li {
+      list-style: none;
+    }
+
+    .links a {
+      display: inline-flex;
+      align-items: center;
+      gap: .6rem;
+      text-decoration: none;
+      font-size: .9375rem;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    .links img {
+      width: 1.15em;
+      height: 1.15em;
+      flex: none;
+    }
+
+    /* 単色SVGアイコンは暗色背景で反転させる */
+    @media (prefers-color-scheme: dark) {
+      .links img {
+        filter: invert(1) opacity(.8);
+      }
+    }
+
+    /* ---- フッター ---- */
+    .site-footer {
+      padding-block: 2rem 3.5rem;
+      font-size: .8125rem;
+      color: var(--pico-muted-color);
+    }
+
+    .site-footer p {
+      margin: 0;
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": "https://hidao80.github.io/hidao80/#page",
+    "url": "https://hidao80.github.io/hidao80/",
+    "name": "hidao - 最高より最適をつくるITエンジニア",
+    "inLanguage": "ja",
+    "dateModified": "2026-09-22",
+    "mainEntity": {
+      "@type": "Person",
+      "@id": "https://hidao80.github.io/hidao80/#hidao",
+      "name": "hidao",
+      "alternateName": "hidao80",
+      "url": "https://hidao80.github.io/hidao80/",
+      "image": "https://hidao80.github.io/hidao80/img/sns_hidao80.jpg",
+      "description": "要件定義から運用まで一気通貫で担うITエンジニア。岡山からフルリモートで働き、データを手元に置いたままのlocal-firstなツールをオープンソースで公開している。",
+      "knowsLanguage": ["ja", "en"],
+      "homeLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "岡山県",
+          "addressCountry": "JP"
+        }
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "システムエンジニア / フルスタックエンジニア / フルサイクルエンジニア",
+        "occupationalCategory": "15-1252.00",
+        "skills": "PHP, Laravel, Python, JavaScript, TypeScript, AWS, Azure, Linux, サーバー監視, WAF運用, 業務自動化, 生成AI活用"
+      },
+      "knowsAbout": [
+        "PHP", "Laravel", "Python", "JavaScript", "TypeScript",
+        "MariaDB", "PostgreSQL", "AWS", "Microsoft Azure", "Linux",
+        "サーバー監視", "Webセキュリティ", "Progressive Web Apps",
+        "ブラウザ拡張機能", "テクニカルSEO", "生成AIの業務活用", "Model Context Protocol"
+      ],
+      "sameAs": [
+        "https://github.com/hidao80",
+        "https://x.com/hidao80",
+        "https://qiita.com/hidao",
+        "https://zenn.dev/hidao",
+        "https://dev.to/hidao80",
+        "https://hidao.hatenablog.com",
+        "https://speakerdeck.com/hidao80"
+      ]
+    }
+  }
+  </script>
 </head>
 
-<body for="html-export">
-    <div class="mume markdown-preview  ">
-        <div align="center">
-            <img src="https://user-images.githubusercontent.com/8155294/182654796-a237adb0-f12c-4364-b2bb-b4d1a5e68153.png"
-                style="width:256px">
-        </div>
+<body>
+  <div class="topbar">
+    hidao<span aria-hidden="true"> / </span><span class="contrast">@hidao80</span>
+  </div>
 
-        <h2 id="fun-fact">Fun fact</h2>
-        
-        <h3 id="hobby">Hobby</h3>
-        <p>PC💻, Gadget📱, Various&nbsp;OS💿, Coffee (especially&nbsp;iced)☕, OSS&nbsp;development🆓</p>
-        
-        <h3 id="programming-language">Programming language</h3>
-        <p>Javascirpt(Vanilla&nbsp;JS), HTML, CSS3, jQuery, Bootstrap, PHP, Laravel, ShellScript(sh, bash, PowerShell),
-            awk&nbsp;script, React, React&nbsp;Native</p>
-        
-            <h3 id="work">Work</h3>
-        <p>Gamification👾, Marketing&nbsp;automation📊, Robotic&nbsp;process&nbsp;automation🤖</p>
-        
-        <h3 id="artist">Artist</h3>
-        <p>Hiroyuki Oda, Masami Okui, Michael Jackson, Sheryl Nome, Yoko Kanno</p>
-        
-        <h2 id="on-the-web">On the web</h2>
-        <p dir="auto"><a rel="me" href="https://github.com/hidao80/"><img
-                    src="https://github.com/hidao80/hidao80/raw/master/img/github.svg" alt="" style="max-width: 100%;">
-                @hidao80</a><br>
-            <a rel="me" href="https://misskey.dev/@hidao" rel="nofollow"><img
-                    src="https://github.com/hidao80/hidao80/raw/master/img/misskey.svg" alt="" style="max-width: 100%;">
-                @hidao@misskey.dev</a> (main)<br>
-            <a rel="me" href="https://social.vivaldi.net/@hidao" rel="nofollow"><img
-                    src="https://github.com/hidao80/hidao80/raw/master/img/mastodon.svg" alt=""
-                    style="max-width: 100%;"> @hidao@social.vivaldi.net</a> (sub)<br>
-            <a rel="me" href="https://qiita.com/hidao" rel="nofollow"><img
-                    src="https://github.com/hidao80/hidao80/raw/master/img/link.svg" alt="" style="max-width: 100%;">
-                Qiita</a><br>
-            <a rel="me" href="https://speakerdeck.com/hidao80" rel="nofollow"><img
-                    src="https://github.com/hidao80/hidao80/raw/master/img/link.svg" alt="" style="max-width: 100%;">
-                Speaker Deck</a>
-        </p>
+  <header class="hero">
+    <p class="lede">最高より、最適。</p>
+    <h1>つくるのは、<em>誰かの手元で動きつづける</em>ツールです。</h1>
+    <p class="sub">
+      岡山県からフルリモートで働くITエンジニア。要件定義から設計・実装・運用・障害対応まで対応。個人開発ではデータをどこにも送らないツールやインストール可能なWebアプリを作っています。
+    </p>
+  </header>
 
-
-        <h2 id="profile">Profile</h2>
-        <p>I am an IT engineer who enjoys building development environments and developing tools.<br>
-            I am also the general manager of Okayama Iced Coffee Party. Iced coffee is the best.<br>
-            I am a multi-standardist who believes that each person has different common sense.</p>
-
-
-        <h2 id="activity">Activity</h2>
-        <p>
-            <a href="https://wakatime.com/@5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a" rel="nofollow"><img
-                    src="https://camo.githubusercontent.com/578ac408c4cf4ea6be4bd59df4b1f5e9db2c1f195ae9b9d2537188fcb98b5bd8/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f35636562306530632d636435612d346634312d393666392d3534656165663162386439612e737667"
-                    alt="wakatime"
-                    data-canonical-src="https://wakatime.com/badge/user/5ceb0e0c-cd5a-4f41-96f9-54eaef1b8d9a.svg"
-                    style="max-width: 100%;"></a>
-            <a href="http://qiita.com/hidao"><img src="https://qiita-badge.apiapi.app/s/hidao/posts.svg"
-                    alt="My Qiita posts"></a>
-            <a href="http://qiita.com/hidao"><img src="https://qiita-badge.apiapi.app/s/hidao/contributions.svg"
-                    alt="My Qiita contributions"></a>
-        </p>
-        <p dir="auto">
-            <img src="./profile-3d-contrib/profile-south-season-animate.svg">
-        </p>
-
-        <h2 class="mume-header" id="works">Works</h2>
-
-        <h3 class="mume-header" id="user-script">User Script</h3>
-
-        <p>It is available on <a href="https://github.com/hidao80/UserScript">GitHub</a>.</p>
-        <ul>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MisskeyFediverseTicker/README.md">MisskeyFediverseTicker</a>&#xFF1A;<br>
-                Display the server to which the contributor belongs in an easily viewable manner.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/TomatoAlarm/README.md">TomatoAlarm</a>&#xFF1A;<br>
-                In the manner of the Pomodoro Technique, an alarm (the sound of a wind chime) is sounded once every 10
-                minutes after the start button is pressed.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/FediverseTimeToAbsolute/README.md">FediverseTimeToAbsolute</a>&#xFF1A;<br>
-                UserScript to add absolute notation to Fediverse's posting time.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/OnScreenConsole/README.md">OnScreenConsole</a>&#xFF1A;<br>
-                Display the contents of the browser&apos;s developer tools console on the screen.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/ChatworkHighlighter/README.md">ChatworkHighlighter</a><br>
-                Syntax highlighting is applied to the code notation in Chatwork.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/HtmlSourceViewer/README.md">HtmlSourceViewer</a><br>
-                Displays the HTML source of the page being viewed, with syntax highlighting for non-iOS/iPadOS.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MastodonTimeToAbsolute/README.md">MastodonTimeToAbsolute</a><br>
-                Change time to absolute notation UserScript for Mastodon.<br>
-                <strong>Please use FediverseTimeToAbsolute as it has stopped updating.</strong>
-            </li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MastodonTootSpeech/README.md">MastodonTootSpeech</a><br>
-                UserScript that uses the Speech API to read out new toots in Mastodon&apos;s home timeline.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MisskeyNotesSpeech/README.md">MisskeyNotesSpeech</a><br>
-                UserScript to read out Misskey&apos;s social timeline using the Speech API.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MisskeyNotificationBeepInDeck/README.md">MisskeyNotificationBeepInDeck</a><br>
-                UserScript that sounds a notification sound even when the deck is displayed in Misskey.</li>
-            <li><a
-                    href="https://github.com/hidao80/UserScript/blob/main/MisskeyTimeToAbsolute/README.md">MisskeyTimeToAbsolute</a><br>
-                Change time to absolute notation UserScript for Misskey v11.<br>
-                <strong>Please use FediverseTimeToAbsolute as it has stopped updating.</strong>
-            </li>
-        </ul>
-
-        <!--
-        <h3 class="mume-header" id="simple-rss-reader">Simple RSS Reader</h3>
-
-        <p>It is an RSS reader that can be used only with a browser.<br>
-            Since registered RSS can be imported and exported, you can easily prepare the same environment for other
-            browsers, PCs, smartphones, and tablets.</p>
-        <p><a href="https://github.com/hidao80/simple-rss-reader">GitHub</a></p>
-        -->
-
-        <h3 class="mume-header" id="qr-code-generator">QR Code Generator</h3>
-        <p>Web app to generate QR codes for plain text, URLs, Wifi settings and contacts (vCard format) for iPhone and
-            Android.</p>
-        <p><a href="https://github.com/hidao80/qr_gen">GitHub</a></p>
-
-        <h3 class="mume-header" id="windows-wifi-profile-addition-batch-file">Windows Wifi profile addition batch file
-        </h3>
-        <p>This is a batch file to add a Wifi profile for Windows.</p>
-        <h4 class="mume-header" id="how-to-use">How to use</h4>
-        <pre data-role="codeBlock" data-info="bat" class="language-bat"><code>wifi_setup.bat SSID passowrd
-</code></pre>
-        <p><a href="https://github.com/hidao80/wifi_setup">GitHub</a></p>
-
-        <h3 class="mume-header" id="qr-wifi-setup-for-win">QR Wi-Fi setup for Windows</h3>
-        <p>Download the batch file that reads the QR code in Windows and performs the Wifi setup.</p>
-        <p><a href="https://github.com/hidao80/qr-wifi-setup-for-win">GitHub</a></p>
-
-        <h3 class="mume-header" id="stable-diffusion-without-gpu">Stable diffusion without GPU</h3>
-        <p>A docker-compose set that creates a GPU-less stable-diffusion Docker environment.</p>
-        <p><a href="https://github.com/hidao80/stable-diffusion-without-gpu">GitHub</a></p>
-
-        <h3 class="mume-header" id="emoji-favicon-bookmarklet-maker">Emoji favicon bookmarklet maker</h3>
-        <p>This is a web application that allows you to use emoji as favicons for bookmarklets.</p>
-        <p><a href="https://github.com/hidao80/emoji-favicon-bookmarklet-maker">GitHub</a></p>
-
-        <h3 class="mume-header" id="fast-logbook">Fast logbook</h3>
-        <p>Time-stamped work notes Chrome Extension.</p>
-        <p><a href="https://github.com/hidao80/fast-logbook">GitHub</a></p>
-
-        <h3 class="mume-header" id="HovelAPI ">HovelAPI</h3>
-        <p>Ultra lightweight API framework for PHP.</p>
-        <p><a href="https://github.com/hidao80/HovelAPI ">GitHub</a></p>
-
-        <h3 class="mume-header" id="windows-wifi-profile-addition-batch-file">Windows Wifi profile addition batch file
-        </h3>
-        <p>This is a batch file to add a Wifi profile for Windows.</p>
-        <p><a href="https://github.com/hidao80/windows-wifi-profile-addition-batch-file">GitHub</a></p>
-
-        <h3 class="mume-header" id="amazon-url-shortener">Amazon URL Shortener</h3>
-        <p>This is a web application that shortens Amazon product URLs, wish lists, and gift certificate registration
-            URLs
-            without using special domains.</p>
-        <p><a href="https://github.com/hidao80/amazon-url-shortener">GitHub</a></p>
-
-        <h3 class="mume-header" id="line-backup-viewer">LINE Backup Viewer</h3>
-        <p>This is a web application that allows you to preview backup data of your LINE talk history in the style of a
-            LINE talk screen and download it as an HTML file.</p>
-        <p><a href="https://github.com/hidao80/LINEBackupViewer">GitHub</a></p>
-        <p><img src="https://raw.githubusercontent.com/hidao80/LINEBackupViewer/master/img/ss.png" alt="Screenshot"></p>
-
-        <h3 class="mume-header" id="curatiodon">Curatiodon</h3>
-        <p>This is a web application that allows you to summarize the toots (posts) of the open source distributed SNS
-            &quot;Mastodon&quot; in any order, and create and display permalinks.</p>
-        <p><a href="https://github.com/hidao80/curatiodon/">GitHub</a></p>
-
-        <!--        
-        <h3 class="mume-header" id="simple-url-shortener">Simple URL shortener</h3>
-        <p>A tool that works only with PHP and json files to generate shortened URLs and redirect to the original URL.
-            Installation on server required</p>
-        <p><a href="https://github.com/hidao80/url_shortener">GitHub</a></p>
-        <h3 class="mume-header" id="working-hours-logger">Working hours logger</h3>
-
-        <p>This is a web application that records the combination of the time the button was pressed and the label of
-            the
-            button (called the log) in JSON format in localStorage (a storage location in the browser) and allows you to
-            copy
-            the tally to the clipboard in Markdown.</p>
-        <p><a href="https://github.com/hidao80/WorkTimeLogger">GitHub</a></p>
-        <h3 class="mume-header" id="work-time-aggregation">Work Time Aggregation</h3>
-
-        <p>This is a tabulation web application for the above work time logger format.</p>
-        <p><a href="https://github.com/hidao80/Working-hours-totalizer">GitHub</a></p> 
-        -->
+  <dl class="stats">
+    <div>
+      <dt>99.98<small>%</small></dt>
+      <dd>監視設計を担った本番サーバー11台の2025年度稼働率</dd>
     </div>
+    <div>
+      <dt>7<small>件</small></dt>
+      <dd>IT導入補助金2025のITツール登録、申請全件が合格</dd>
+    </div>
+    <div>
+      <dt>70<small>+</small></dt>
+      <dd>GitHubで公開しているリポジトリ</dd>
+    </div>
+    <div>
+      <dt>18<small>年</small></dt>
+      <dd>開発・インフラ8年＋非エンジニア職10年の実務</dd>
+    </div>
+  </dl>
+
+  <main>
+    <section id="creed">
+      <h2>仕事の軸</h2>
+      <p class="section-note">判断に迷ったとき、最後に立ち戻る場所。</p>
+
+      <blockquote class="creed">
+        <strong>最高より最適。</strong>
+        <p>完璧に作り込むより、価値が届く最小の形で出して、返ってきたもので直す。使われない100点より、使われる70点を選びます。</p>
+      </blockquote>
+
+      <p>
+        判断の土台にしているのは<strong>誠実・寛容・利他</strong>の3つ。そして「人はそれぞれ常識が違う」という前提に立つマルチスタンダード主義者なので、正しさを押し通すより噛み合う形を探すほうが得意です。
+      </p>
+
+      <h3>強みの資質（クリフトン・ストレングス上位5つ）</h3>
+      <ul class="traits">
+        <li><b>1</b>共感<span>相手の温度がわかる</span></li>
+        <li><b>2</b>収集<span>集めること、多様性への寛容さ</span></li>
+        <li><b>3</b>着想<span>アイデアが浮かぶ</span></li>
+        <li><b>4</b>内省<span>考えぬく</span></li>
+        <li><b>5</b>戦略<span>直感的な筋の見立て</span></li>
+      </ul>
+      <h3>強みの資質（LAPRAS強みファクター診断上位5つ）</h3>
+      <ul class="traits">
+        <li><b>1</b>伝える力<span>相手に届く言葉へ訳す</span></li>
+        <li><b>2</b>創意工夫<span>足りない前提で手段を探す</span></li>
+        <li><b>3</b>AI価値創出<span>人とAIの担当を分ける</span></li>
+        <li><b>4</b>信頼獲得<span>約束を守り続けて任される</span></li>
+        <li><b>5</b>高速学習<span>未知を吸収して応用する</span></li>
+      </ul>
+    </section>
+
+    <section id="work">
+      <h2>担っている領域</h2>
+      <p class="section-note">肩書きは「SE」ひとつですが、実態は複数のレーンをまたいでいます。下は直近年度の実績比率です。</p>
+
+      <div class="ratio" role="img"
+        aria-label="業務比率：開発38%、Web・マーケ運用27%、管理・会議22%、インフラ8%、教育・勉強会5%">
+        <span class="c1" style="width:38%"></span>
+        <span class="c2" style="width:27%"></span>
+        <span class="c3" style="width:22%"></span>
+        <span class="c4" style="width:8%"></span>
+        <span class="c5" style="width:5%"></span>
+      </div>
+      <ul class="ratio-legend">
+        <li><i class="c1"></i>開発 38%</li>
+        <li><i class="c2"></i>Web・マーケ運用 27%</li>
+        <li><i class="c3"></i>管理・会議 22%</li>
+        <li><i class="c4"></i>インフラ 8%</li>
+        <li><i class="c5"></i>教育・勉強会 5%</li>
+      </ul>
+    </section>
+
+    <section id="record">
+      <h2>担当してきた仕事</h2>
+      <p class="section-note">クラウド型業務システムを扱う開発会社で、SE・インフラ・セキュリティ・社内講師を兼務。以下は主担当として通したものです。</p>
+
+      <div class="overflow-auto">
+        <table class="record">
+          <tbody>
+            <tr>
+              <th scope="row">バース予約RPA</th>
+              <td>要件定義から設計・実装・納品まで単独で担当</td>
+            </tr>
+            <tr>
+              <th scope="row">IT導入補助金2025</th>
+              <td>自社4製品・代理店3製品のITツール登録を申請し全件合格</td>
+            </tr>
+            <tr>
+              <th scope="row">WAF導入</th>
+              <td>製品選定からSiteGuard Cloud Editionの導入・運用まで</td>
+            </tr>
+            <tr>
+              <th scope="row">サーバー監視</th>
+              <td>Mackerelを導入し本番11台の2025年度稼働率99.98%を実現</td>
+            </tr>
+            <tr>
+              <th scope="row">顔認証打刻</th>
+              <td>Azure Face APIでブラウザ完結の打刻を実装し専用ハードを不要に</td>
+            </tr>
+            <tr>
+              <th scope="row">コーポレート／製品サイト</th>
+              <td>ディレクション・制作・コピーライティング・GA4/GSC運用</td>
+            </tr>
+            <tr>
+              <th scope="row">開発環境の刷新</th>
+              <td>VS Code + GitHub Copilotを社内標準として導入</td>
+            </tr>
+            <tr>
+              <th scope="row">生成AIの全社導入</th>
+              <td>個人検証からMCPサーバー構築を経てClaude/Claude Codeを全社展開</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>
+        頼まれていない内製ツールを作る癖もあります。電話/eFAXの着信通知、DDNSの死活監視。困りごとを見つけると、気づいたときにはスクリプトが書き上がっています。
+      </p>
+    </section>
+
+    <section id="stack">
+      <h2>技術スタック</h2>
+      <p class="section-note">実線は業務で使ったもの、破線は現在学習中のもの。</p>
+
+      <div class="stack">
+        <div>
+          <h3>サーバーサイド</h3>
+          <ul class="tags">
+            <li>PHP</li>
+            <li>Laravel</li>
+            <li>FuelPHP</li>
+            <li>Python</li>
+            <li>MariaDB</li>
+            <li>PostgreSQL</li>
+          </ul>
+        </div>
+        <div>
+          <h3>フロントエンド</h3>
+          <ul class="tags">
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>Nuxt.js</li>
+            <li>jQuery</li>
+            <li>SCSS</li>
+            <li>Bootstrap</li>
+            <li>Twig2</li>
+          </ul>
+        </div>
+        <div>
+          <h3>インフラ</h3>
+          <ul class="tags">
+            <li>AWS</li>
+            <li>Azure</li>
+            <li>Linux（Rocky / CentOS / RHEL）</li>
+            <li>Windows Server</li>
+            <li>Apache</li>
+            <li>Mackerel</li>
+            <li>VPN</li>
+            <li>WAF</li>
+          </ul>
+        </div>
+        <div>
+          <h3>連携API</h3>
+          <ul class="tags">
+            <li>人事労務freee</li>
+            <li>Azure Face</li>
+            <li>OpenAI</li>
+            <li>Gemini</li>
+            <li>WebRTC</li>
+            <li>Web Speech</li>
+            <li>Geolocation</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Web運用</h3>
+          <ul class="tags">
+            <li>WordPress</li>
+            <li>テクニカルSEO</li>
+            <li>GA4</li>
+            <li>Google Tag Manager</li>
+            <li>Search Console</li>
+            <li>構造化データ（Schema.org）</li>
+            <li>MS Clarity</li>
+          </ul>
+        </div>
+        <div>
+          <h3>自動化・AI</h3>
+          <ul class="tags">
+            <li>Claude Code</li>
+            <li>GitHub Copilot</li>
+            <li>MCP</li>
+            <li>Power Automate Desktop</li>
+            <li>Chrome拡張</li>
+            <li>UserScript</li>
+          </ul>
+        </div>
+        <div>
+          <h3>学習中</h3>
+          <ul class="tags learning">
+            <li>React/Redact</li>
+            <li>Vue.js</li>
+            <li>Vite</li>
+            <li>Bun</li>
+            <li>Deno</li>
+            <li>Biome</li>
+            <li>Tailwind CSS</li>
+            <li>Playwright</li>
+            <li>Ansible</li>
+            <li>Terraform</li>
+            <li>GitHub Actions</li>
+            <li>Docker / Podman</li>
+            <li>プロジェクトマネージャ試験</li>
+          </ul>
+        </div>
+        <div>
+          <h3>研究中</h3>
+          <ul class="tags learning">
+            <li>省トークン化技法</li>
+            <li>ローカルLLM</li>
+            <li>Capacitorでモバイルアプリ開発</li>
+            <li>Tauriでデスクトップアプリ開発</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="oss">
+      <h2>公開しているもの</h2>
+      <p class="section-note">
+        技術カテゴリではなく、作った理由で並べています。
+        全体は<a href="https://github.com/hidao80?tab=repositories">GitHubのリポジトリ一覧</a>から。
+      </p>
+
+      <div class="oss">
+        <h3>クラウドに送らない</h3>
+        <p>手元のマシンで完結させるための道具。データが自分の外に出ないことを設計の前提にしています。</p>
+        <ul class="repos">
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/bit-rag">bit-rag</a></div>
+            <p>Ollamaだけで動く最小構成のRAG APIサーバー。テキストやファイルをベクトルDBに取り込み、ローカルのLLMに問い合わせます。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/local-ai-chat-frontend">local-ai-chat-frontend</a></div>
+            <p>ローカルLLMにもクラウドにもつなげる、プライバシー優先のブラウザ製チャットUI。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/memory_mcp">memory_mcp</a></div>
+            <p>自分のマシンで動かす前提で書いた、デスクトップ拡張向けの記憶用MCPサーバー。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/Fast-logbook-cli">Fast-logbook-cli</a></div>
+            <p>作業ログを期間指定で集計する単一バイナリのCLI。定型データはAIではなくツールで処理します。</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="oss">
+        <h3>ブラウザだけで完結させる</h3>
+        <p>インストールもサーバーも要らず、URLを開けば使える形に寄せたもの。</p>
+        <ul class="repos">
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/LINEBackupViewer">LINEBackupViewer</a><span class="star">★11</span></div>
+            <p>LINEのトーク履歴バックアップをLINE風の画面でプレビューし、1枚のHTMLとして書き出します。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/qr_gen">qr_gen</a><span class="star">★6</span></div>
+            <p>テキスト・URL・Wi-Fi設定・vCard連絡先のQRコードを生成。iPhoneにもAndroidにも対応。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/Fast-logbook-PWA">Fast-logbook-PWA</a></div>
+            <p>タイムスタンプ付きで作業を記録する軽量PWA。HTML・Markdown・プレーンテキストで書き出せます。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/fire-qr-reader">fire-qr-reader</a><span class="star">★2</span></div>
+            <p>QRコードリーダーアプリのないタブレットでもQRコードを読めるリーダー。PWAとして導入可能。</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="oss">
+        <h3>日々の摩擦を削る</h3>
+        <p>自分が毎日ぶつかっていた小さな面倒を、そのつど潰してきた結果。</p>
+        <ul class="repos">
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/TsumiQiita">TsumiQiita</a><span class="star">★13</span></div>
+            <p>Qiitaの下書きを保存・編集・投稿できるデスクトップクライアント。ただのMarkdownエディターとしても使えます。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/misskey-utils">misskey-utils</a><span class="star">★9</span></div>
+            <p>Misskeyを日常的に使ううえで欲しくなる細かな機能をまとめたユーティリティ集。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/UserScript">UserScript</a><span class="star">★7</span></div>
+            <p>画面上にコンソールを出す、Chatworkにシンタックスハイライトを効かせるなど、UserScript配布ページ。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/embed-images-in-markdown">embed-images-in-markdown</a><span class="star">★4</span></div>
+            <p>Shiftを押しながら画像をドロップすると、Data URLに変換してMarkdownへ埋め込むVS Code拡張。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/mago-vsx">mago-vsx</a></div>
+            <p>PHPの静的解析ツールMagoをVS Codeに統合する拡張。</p>
+          </li>
+          <li>
+            <div class="name"><a href="https://github.com/hidao80/lighthouse-badges">lighthouse-badges</a></div>
+            <p>ローカルのChromeでLighthouseを走らせ、スコアバッジをSVG／JSONで出力するCLI。</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>投稿先</h2>
+      <ul class="links">
+        <li><a href="https://github.com/hidao80/"><img src="img/github.svg" alt="" width="18" height="18">GitHub
+            @hidao80</a></li>
+        <li><a href="https://x.com/hidao80"><img src="img/twitter.svg" alt="" width="18" height="18">X
+            @hidao80</a></li>
+        <li><a href="https://qiita.com/hidao"><img src="img/link.svg" alt="" width="18" height="18">Qiita
+            @hidao</a></li>
+        <li><a href="https://zenn.dev/hidao"><img src="img/link.svg" alt="" width="18" height="18">Zenn
+            @hidao</a></li>
+        <li><a href="https://dev.to/hidao80"><img src="img/link.svg" alt="" width="18" height="18">dev.to
+            @hidao80</a></li>
+        <li><a href="https://speakerdeck.com/hidao80"><img src="img/link.svg" alt="" width="18" height="18">Speaker
+            Deck @hidao80</a></li>
+        <li><a href="https://hidao.hatenablog.com"><img src="img/link.svg" alt="" width="18" height="18">ブログ</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      © <span id="year">2026</span> hidao ・ アイスコーヒーとガジェットで動いています ☕
+    </p>
+    <p>
+      Built with <a href="https://picocss.com/">Pico CSS</a> ・ Favicon by
+      <a href="https://github.com/jdecked/twemoji">Twemoji</a>（CC-BY 4.0）
+    </p>
+  </footer>
+
+  <script>
+    // テーマはCSSの prefers-color-scheme だけで決まるため、JSの役割は年号の更新のみ
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 
 </html>
