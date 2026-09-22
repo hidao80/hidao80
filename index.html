@@ -50,6 +50,7 @@
       --rule: var(--pico-muted-border-color);
       --pico-font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", "Meiryo", system-ui, sans-serif;
       --pico-typography-spacing-vertical: 1.4rem;
+      word-break: auto-phrase;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -109,13 +110,22 @@
     }
 
     /* ---- 数字の帯 ---- */
+    /* auto-fitだと中間幅で3+1の孤立行ができるため、4列か2列だけを取る */
     .stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+      grid-template-columns: repeat(4, 1fr);
       gap: 1.5rem 1rem;
       padding-block: 2rem;
       border-bottom: 1px solid var(--rule);
-      margin: 0;
+      /* dlの既定マージンを消しつつ、body>* の中央揃えは残す */
+      margin-block: 0;
+    }
+
+    @media (max-width: 46rem) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.75rem 1rem;
+      }
     }
 
     .stats div {
