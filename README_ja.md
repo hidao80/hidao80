@@ -2,7 +2,7 @@
 
 [English](README.md) | 日本語
 
-- 🔥 **使命**: バイブコーディングをガイドコーディングとして体系化する。
+- 🔥 **使命**: AIが生む大量のコードの「意図」をテストとナレッジで素早く把握できる状態に保ち、人とAIが共に速く安全に開発し続けられる仕組みを整える。
 - 🧩 **モットー**: **夢中開発、三方利益。** 私たちとクライアント、エンドユーザーのすべてに利益を。
 - ⚖️ **価値基準**: **最高より最適。** 完璧主義より実用主義、MVP思考で価値を届ける
 - 🎯 **目標**: **設計→実装→運用まで一貫して担うフルサイクルエンジニア**
@@ -63,8 +63,8 @@ Netflix社が2018年に提唱した開発手法で、
 - ビジネスよりの話題や雑感は[はてなブログ](https://hidao.hatenablog.com/)
 
 **オープンソース開発**:
-- 公開リポジトリ: 60+（MITライセンスなど）
-- 累計コントリビューション: 2700+
+- 公開リポジトリ: 80+（MITライセンスなど）
+- 累計コントリビューション: 3.2k+
 - 誰でも自由に使用・改変可能
 
 プロジェクトへのコントリビューション（Issue、PR、フィードバック）を歓迎しています！
@@ -80,17 +80,17 @@ Netflix社が2018年に提唱した開発手法で、
 <summary><h2 style="display:inline-block">🛠️ 技術スタック</summary>
 
 ### ⚡️ 現在使用中
-- **フロントエンド**: JavaScript、HTML/CSS、jQuery、Vite，WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome拡張機能、Firefox拡張機能、VS Code拡張機能、Claudeデスクトップ拡張機能、UserScript、PWA、Bookmarklet
-- **バックエンド**: PHP、Laravel、MySQL、PostgreSQL、SASS、Twig、Python
-- **インフラ**: AWS、Azure、Linux、BSD、Windows Server、Apache、MariaDB、ssh、sendmail、Git、Subversion、Docker、Vagrant、Ansible、Mackerel
-- **マーケティング**: WordPress、SEO、Google Ads、Facebook Ads、プレスリリース、リード生成サイトへの掲載、Google Analytics 4、Google Search Console、Google Tag Manager、構造化データ（schema）
-- **AIツール**: GitHub Copilot Chat、ReCline-Legacy、Claude、ChatGPT、MS Copilot、M365 Copilot、Gemini、Grok、楽天AI、NotebookLM、DALL-E3、MCP Server、MCP設定ファイル、ローカルLLM AI（Ollama、LM Studio、GPT4ALL）
+- **フロントエンド**: JavaScript、TypeScript、HTML/CSS、jQuery、Vite，WebRTC API、Web Speech API、Geolocation API、Prompt API、Chrome拡張機能、Firefox拡張機能、VS Code拡張機能、Claudeデスクトップ拡張機能、UserScript、PWA、Bookmarklet
+- **バックエンド**: PHP、Laravel、MySQL/MariaDB、PostgreSQL、SASS、Twig、Python
+- **インフラ**: AWS、Azure、Linux、BSD、Windows Server、Apache、ssh、sendmail、Git、Subversion、Docker、Vagrant、Ansible、Mackerel、Open Telemetry
+- **PR/マーケティング**: WordPress、SEO、Google Ads、Facebook Ads、プレスリリース、リード生成サイトへの掲載、Google Analytics 4、Google Search Console、Google Tag Manager、Microsoft Clarity、構造化データ（schema.org）、OGP
+- **AIツール**: Claude、Gemini、ChatGPT、Muse、MS Copilot、M365 Copilot、Grok、楽天AI、Gemini Notebook、MCP、ローカルLLM AI（Ollama、LM Studio、GPT4ALL、llama.cpp）
 - **チャットツール**: Chatwork、Slack、LINE、Teams、Messenger、Discord、Matrix、Google Chat、Google Meet、Zoom、FaceTime
 - **ナレッジベース**: esa.io、OneNote、Google Keep、Redmine Wiki、Zenn.dev、qiita.com 
 
 ### 📚️ 現在学習・練習中
-- **フロントエンド**: Vue.js
-- **資格**: IPA データベーススペシャリスト
+- **フロントエンド**: Vite + React
+- **資格**: IPA プロジェクトマネージャ
 
 </details>
 
@@ -99,7 +99,7 @@ Netflix社が2018年に提唱した開発手法で、
 
 ### 1. [Fast logbook PWA](https://github.com/hidao80/Fast-logbook-PWA)  
 タイムスタンプ付きの作業メモPWA。HTMLとMarkdownの表形式で集計でき、エクスポートも可能。
-- *技術スタック: PWA、JavaScript、HTML/CSS、i18n*
+- *技術スタック: bun、Vite、PWA、IndexedDB、Playwright、i18n*
 - **解決した課題**: 簡単な作業記録と作業時間集計をインストールもアカウントも不要なPWAで実現。モバイルデバイスへのアプリとしてのインストールも可能。HTMLへのエクスポートを使うことで、ローカルに簡単に保存できる。
 - **ユースケース**:
   - 個人開発者の作業ログ管理
@@ -110,7 +110,7 @@ Netflix社が2018年に提唱した開発手法で、
 
 ### 2. [ShigotoForm](https://github.com/hidao80/ShigotoForm)  
 - オフライン動作、IndexedDBストレージ、PDF出力機能を備えたPWAベースの履歴書ジェネレーター。シームレス&サーバレスな履歴書作成機能を提供。
-- *技術スタック: PWA、Vite、IndexedDB、JavaScript、HTML/CSS*
+- *技術スタック: bun、Vite、PWA、IndexedDB、Playwright*
 - **解決した課題**: 日本向けの履歴書PDFファイルの作成をWeb上でサーバーにデータを残さず作成可能。個人情報と学歴・職歴・資格データをJSONファイルで、履歴書はPDFファイルでエクスポート可能。
 - **ユースケース**: 
   - 個人的な履歴書の作成
@@ -136,12 +136,11 @@ Netflix社が2018年に提唱した開発手法で、
 
 <details>
 <summary><h2 style="display:inline-block">🏆️ 実績</summary>
-
-- 🤖 **GPTs制作**: 20+ *(社内業務効率化。多言語対応版を含む)*
+  
 - 📞 **社内電話着信のチャット通知システム構築** *(生産性向上)*
 - 📫️ **メールとインターネットFAX着信のチャット通知および通知フィルターPower Automateフローの開発と運用** *(生産性向上)*
 - 📃 **作業ログ登録＆集計PWAをOSSとして開発＆リリース**: [Fast logbook PWA](https://fast-logbook.netlify.app/)
-- 🔧 **拡張機能総インストール数**: 800+ *(VS Code, Chrome, Firefox)*
+- 🔧 **拡張機能総インストール数**: 1.2k+ *(VS Code, Chrome, Firefox)*
   - **内訳**  
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.embed-images-in-markdown?logo=visualstudiocode&label=VSCode%20installs&style=flat)
     - ![](https://img.shields.io/visual-studio-marketplace/i/hidao80.powerautomate-desktop-syntax?logo=visualstudiocode&label=VSCode%20installs&style=flat)
@@ -150,16 +149,16 @@ Netflix社が2018年に提唱した開発手法で、
     - ![](https://img.shields.io/badge/Chrome-14%20installs-informational?logo=googlechrome&style=flat)    
       *（Chromeエクステンションのインストール数はまだ自動更新されていません — Chrome Web Storeページでのみ表示）*  
 - 🏭️ **CI/CDパイプライン**: ![CI](https://github.com/hidao80/Fast-logbook-PWA/actions/workflows/eslint.yml/badge.svg?event=push)&emsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/e764aaa6-ad23-4945-8b6e-17a802224243/deploy-status)](https://app.netlify.com/sites/fast-logbook/deploys)
-  - **Lint & Security**: push/PR時にESLint + npm audit自動実行
+  - **Lint & Security**: push/PR時にbiome + bun audit自動実行
   - **Deploy**: mainブランチへのマージでNetlifyに自動デプロイ
-  - **最適化**: ubuntu-slimランナー採用、npmキャッシュ有効化
+  - **最適化**: ubuntu-slimランナー採用、npmキャッシュ有効化、並列実行
 
 </details>
 
 <details>
 <summary><h2 style="display:inline-block">🧰 クロスプラットフォーム開発の実績</summary>
 
-- オープンソースポートフォリオ: GitHubで[60以上の公開リポジトリ](https://github.com/hidao80?tab=repositories)
+- オープンソースポートフォリオ: GitHubで[80以上の公開リポジトリ](https://github.com/hidao80?tab=repositories)
 - クロスプラットフォーム開発:
   * UserScripts: [30以上の自動化ツール](https://github.com/hidao80/UserScript)
   * ブラウザ拡張機能: [Chrome Web Store](https://chromewebstore.google.com/detail/fast-logbook/ifmhhodbomecmgjdflojanlfipldlcbe?authuser=0&hl=ja) + [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/share-with-sharegpt/)（公開済み）
@@ -191,11 +190,3 @@ Netflix社が2018年に提唱した開発手法で、
 ## 活動
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hidao80?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-
-
-
-
-
-
-
-
